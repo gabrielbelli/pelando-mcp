@@ -6,7 +6,24 @@ from typing import Any
 
 import pytest
 
+from pelando_mcp.client import PelandoBlocked
+
 FIXTURES = Path(__file__).parent / "fixtures"
+
+
+@pytest.hookimpl(wrapper=True)
+def pytest_runtest_call(item: pytest.Item) -> Any:
+    """A block is not a contract change, and must never be reported as one.
+
+    The live suite exists to fail on schema drift. Cloudflare 403ing us says nothing about the
+    schema, so it downgrades to a skip — a red X here has to keep meaning "the API moved".
+    """
+    try:
+        return (yield)
+    except PelandoBlocked as exc:
+        if item.get_closest_marker("live") is None:
+            raise
+        pytest.skip(f"edge blocked this network, contract not verified: {exc}")
 
 
 def load(name: str) -> Any:

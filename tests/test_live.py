@@ -1,7 +1,10 @@
-"""Live contract tests. Deselected by default; run weekly in CI.
+"""Live contract tests. Deselected by default; run by hand with `pytest -m live`.
 
 A scraper does not break loudly — it starts returning "no deals found" and lies to the user. These
 tests hit the real API at 1 req/s and fail on schema drift.
+
+Deliberately not in CI: Cloudflare 403s datacentre IP ranges, so a hosted runner only ever sees the
+block interstitial and never the schema. Run these from a home connection.
 """
 
 from __future__ import annotations
@@ -9,10 +12,36 @@ from __future__ import annotations
 import pytest
 
 from pelando_mcp import api
-from pelando_mcp.client import PelandoClient
+from pelando_mcp.client import PelandoBlocked, PelandoClient
 from pelando_mcp.models import COMMUNITY_SLUGS, DealKind
 
 pytestmark = pytest.mark.live
+
+_PROBE: dict[str, str | None] = {}
+
+
+async def _blocked_reason() -> str | None:
+    """One cheap probe, cached for the session.
+
+    Cloudflare blocks by IP range, not just by UA — any datacentre address is refused outright — so
+    on a blocked network every test below would otherwise pay the full challenge backoff (~40s each)
+    only to skip. `max_retries=0` turns that into one request.
+    """
+    if "reason" not in _PROBE:
+        _PROBE["reason"] = None
+        async with PelandoClient(cache=None, max_retries=0) as probe:
+            try:
+                await api.browse_feed(probe, limit=1)
+            except PelandoBlocked as exc:
+                _PROBE["reason"] = str(exc)
+    return _PROBE["reason"]
+
+
+@pytest.fixture(autouse=True)
+async def _skip_when_blocked():
+    reason = await _blocked_reason()
+    if reason is not None:
+        pytest.skip(f"edge blocked this network, contract not verified: {reason}")
 
 
 @pytest.fixture

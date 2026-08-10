@@ -43,8 +43,9 @@ jobs:
       - name: Lint (ruff)
         run: ruff check src tests
 
-      # Offline only: parser tests run against checked-in fixtures. The live contract test is a
-      # separate scheduled job so a Pelando outage never fails a PR.
+      # Offline only: parser tests run against checked-in fixtures, so a Pelando outage never fails
+      # a PR. The live contract tests cannot run here at all — Cloudflare 403s datacentre IP ranges,
+      # hosted runners included — so they are run by hand from a home connection. See README.
       - name: Tests
         run: pytest -q -m "not live"
 

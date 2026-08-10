@@ -102,6 +102,13 @@ docker compose run --rm pelando-mcp
 
 A named volume holds the sqlite cache at `/data/cache.sqlite`.
 
+> **Run this from home, not from a cloud host.** Cloudflare fronts Pelando and blocks **datacentre
+> IP ranges outright** — a 403 interstitial on every request, `robots.txt` included, no matter how
+> honest the User-Agent is. Measured: the identical client returns 200 from a residential connection
+> and 403 from a GitHub Actions runner. So the image is fine on a laptop, home server or NAS, and
+> will not work on a VPS. Treat that as a constraint to respect rather than a puzzle to route around
+> with a proxy — see [Politeness](#politeness-and-why-pelando).
+
 ## Wiring into Claude
 
 ### Docker (recommended)
@@ -153,6 +160,9 @@ Practically, that means:
   bot UA strings — including `python-httpx`, our own library — but an honest self-identifying UA
   returns 200. If this server ever becomes a nuisance, the operator can email us instead of
   blocking us. Don't replace it with a browser string.
+- **Cloudflare also blocks by IP range, not only by UA.** Datacentre ranges get a 403 interstitial
+  however honest the UA is, which is why this runs from a home connection and why the live contract
+  tests are not in CI. A residential proxy would defeat that block; we don't ship one.
 - **1 req/s, concurrency 1**, with aggressive sqlite caching. Measured headroom is much larger;
   that is not a reason to use it.
 - `robots.txt` is fetched at startup and paths are **actually evaluated** against it.
@@ -180,8 +190,10 @@ scripts/
 ## Notes
 
 - Data comes from an **undocumented internal JSON API**. It has no contract and no deprecation
-  policy, so a weekly [live contract test](./.github/workflows/contract.yml) checks for schema
-  drift. A scraper does not break loudly — it starts returning "no deals found" and lies to you.
+  policy, so `pytest -m live` hits the real endpoints and fails on schema drift. A scraper does not
+  break loudly — it starts returning "no deals found" and lies to you. Run it by hand every so
+  often, from home; if the edge blocks the network it **skips rather than fails**, because a 403
+  says nothing about the schema.
 - Deal `status` is maintained by users and moderators, **not verified against the merchant**. An
   "active" deal can be long dead at the shop.
 - Titles are free text. `[REEMBALADO]`, `usado` and `open box` are detected and flagged; a silent
