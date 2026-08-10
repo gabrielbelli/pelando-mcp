@@ -1,0 +1,950 @@
+{
+    "data": {
+        "deals": [
+            {
+                "id": "1daf5cfe-6c67-43a8-9e43-0524f215dfe2",
+                "slug": "notebook-ideapad-slim-3-ryzen-7-7735hs-8gb-512gb-ssd-b00c",
+                "title": "Notebook Ideapad Slim 3 Ryzen 7 7735hs 8GB 512GB SSD",
+                "temperature": -92,
+                "commentCount": 4,
+                "date": "2 dias",
+                "price": 3542.55,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-08T21:53:07.506Z",
+                "firstApprovedAt": "2026-08-08T21:58:29.729Z",
+                "store": {
+                    "id": "921",
+                    "name": "Mercado Livre",
+                    "slug": "mercado-livre",
+                    "logo": "/s/mercado-livre-1776453574069.png",
+                    "linkingEnabled": true,
+                    "pageEnabled": true
+                },
+                "author": {
+                    "id": "8b806eb9-2455-486d-88d2-4667d5e1f545",
+                    "nickname": "joao_mt",
+                    "topCreator": false,
+                    "isCreator": false
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/kM4x9GzWyhLZS4ULqRL6CTxXx0w=/0x100/filters:format(webp)/d/crawler-image-99788dd7-1959-47b4-9538-ffbe764bc852-1786225854189-1786225855731.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/kM4x9GzWyhLZS4ULqRL6CTxXx0w=/0x100/filters:format(webp)/d/crawler-image-99788dd7-1959-47b4-9538-ffbe764bc852-1786225854189-1786225855731.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/7yelegAGPBcAsjwYvIwlVer_t-8=/0x200/filters:format(webp)/d/crawler-image-99788dd7-1959-47b4-9538-ffbe764bc852-1786225854189-1786225855731.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/rYQzQjcdT2oyC55GBKZVte1w_1E=/0x300/filters:format(webp)/d/crawler-image-99788dd7-1959-47b4-9538-ffbe764bc852-1786225854189-1786225855731.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.mercadolivre.com.br/notebook-ideapad-slim-3-ryzen-7-7735hs-8gb-512gb-ssd-amd-radeon-graphics-153-1920x1200-linux-83mms00100/p/MLB62305743",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5tZXJjYWRvbGl2cmUuY29tLmJyL25vdGVib29rLWlkZWFwYWQtc2xpbS0zLXJ5emVuLTctNzczNWhzLThnYi01MTJnYi1zc2QtYW1kLXJhZGVvbi1ncmFwaGljcy0xNTMtMTkyMHgxMjAwLWxpbnV4LTgzbW1zMDAxMDAvcC9NTEI2MjMwNTc0MyIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMjgyNTg2LCJpYXQiOjE3ODYzMjAyODIsImV4cCI6MTgyMDg4MDI4Mn0.rZf8y5wZsdKz49ptSxDI-JJZSYv2pWaN5bUKRjUWCcM",
+                "cashback": null,
+                "lastActivityAt": "2 dias"
+            },
+            {
+                "id": "129078e1-c6e9-4d5e-ae47-45959872ea09",
+                "slug": "notebook-lenovo-ideapad-slim3-16gb-ram-512gb-ssd-90d3",
+                "title": "Notebook Lenovo IdeaPad Slim3 16GB RAM 512GB SSD",
+                "temperature": 553,
+                "commentCount": 19,
+                "date": "3 dias",
+                "price": 3909,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-07T23:06:05.128Z",
+                "firstApprovedAt": "2026-08-07T23:06:13.153Z",
+                "store": {
+                    "id": "276",
+                    "name": "Magalu",
+                    "slug": "magalu",
+                    "logo": "/s/magazine-luiza-1776453552806.png",
+                    "linkingEnabled": true,
+                    "pageEnabled": true
+                },
+                "author": {
+                    "id": "c88165e9-7151-48c1-8237-4d95b3f2962a",
+                    "nickname": "cafeina",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/eb2jbHKaajU5-HnKpJ8bPuee0M4=/100x100/filters:format(webp)/u/314523cc-c4fc-450b-ba4f-59a9290a0b67.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/2rvjIvK8yuRlxA_BJ013x7s3qZ8=/0x100/filters:format(webp)/d/crawler-image-5f421b4b-3cf9-4eeb-aec2-6eb39e7caca9-1786143955656-1786143957105.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/2rvjIvK8yuRlxA_BJ013x7s3qZ8=/0x100/filters:format(webp)/d/crawler-image-5f421b4b-3cf9-4eeb-aec2-6eb39e7caca9-1786143955656-1786143957105.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/WMNQtSQU6lE9UTY3AapdM9lFyeo=/0x200/filters:format(webp)/d/crawler-image-5f421b4b-3cf9-4eeb-aec2-6eb39e7caca9-1786143955656-1786143957105.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/Lrm5emlKNKLlOrQAoDsMPa8zDag=/0x300/filters:format(webp)/d/crawler-image-5f421b4b-3cf9-4eeb-aec2-6eb39e7caca9-1786143955656-1786143957105.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://m.magazineluiza.com.br/notebook-lenovo-ideapad-slim3-snapdragon-x-16gb-ram-512gb-ssd-153-arm-win-11-copilot-83tw0000bo/p/240788500/in/leip/?partner_id=64853&utm_source=pdp_desk&utm_medium=share&seller_id=magazineluiza",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL20ubWFnYXppbmVsdWl6YS5jb20uYnIvbm90ZWJvb2stbGVub3ZvLWlkZWFwYWQtc2xpbTMtc25hcGRyYWdvbi14LTE2Z2ItcmFtLTUxMmdiLXNzZC0xNTMtYXJtLXdpbi0xMS1jb3BpbG90LTgzdHcwMDAwYm8vcC8yNDA3ODg1MDAvaW4vbGVpcC8_cGFydG5lcl9pZD02NDg1MyZ1dG1fc291cmNlPXBkcF9kZXNrJnV0bV9tZWRpdW09c2hhcmUmc2VsbGVyX2lkPW1hZ2F6aW5lbHVpemEiLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDI4MjU4NiwiaWF0IjoxNzg2MzIwMjgyLCJleHAiOjE4MjA4ODAyODJ9.i31fSdJPRg7I7BPbiy-hZZ-QIqHZPV2DImm5drlYAhk",
+                "cashback": null,
+                "lastActivityAt": "2 dias"
+            },
+            {
+                "id": "95438c2c-69f9-4953-bae2-9c6bd6af3f43",
+                "slug": "notebook-acer-nitro-v15-ryzen-7-7735hs-32gb-ram-ddr5-rtx-4050-512gb-ssd-tela-156-fhd-led-ips-linux-5803",
+                "title": "Notebook Acer Nitro V15 Ryzen 7-7735HS, 32GB RAM DDR5, RTX 4050, 512GB SSD, Tela 15.6\" FHD LED IPS, Linux",
+                "temperature": 44,
+                "commentCount": 8,
+                "date": "2 dias",
+                "price": 6629,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-08T14:03:36.924Z",
+                "firstApprovedAt": "2026-08-08T14:04:13.111Z",
+                "store": {
+                    "id": "300",
+                    "name": "KaBuM!",
+                    "slug": "kabum",
+                    "logo": "/s/kabum-1776453511048.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "631520",
+                    "nickname": "legnar",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/ral5HWn4H_UWru2Lsyiap4mXiYA=/100x100/filters:format(webp)/u/631520_1.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/hTXWzv9duTqNUWNaJenPi8vefxQ=/0x100/filters:format(webp)/d/scp-fpzvd-1786197795802.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/hTXWzv9duTqNUWNaJenPi8vefxQ=/0x100/filters:format(webp)/d/scp-fpzvd-1786197795802.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/cQk8ynglLRj5GQM2rt9LKGBiceM=/0x200/filters:format(webp)/d/scp-fpzvd-1786197795802.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/Utv12aZgGVhSgcuUT24IY5uuDFs=/0x300/filters:format(webp)/d/scp-fpzvd-1786197795802.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.kabum.com.br/produto/952234/notebook-acer-nitro-v15-anv15-41-r4q9-r77735hs-amd-ryzen-7-32gb-512gb-ssd-nvidia-rtx-4050-15-6-fhd-led-ips-agpos-nh-u20al-002",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5rYWJ1bS5jb20uYnIvcHJvZHV0by85NTIyMzQvbm90ZWJvb2stYWNlci1uaXRyby12MTUtYW52MTUtNDEtcjRxOS1yNzc3MzVocy1hbWQtcnl6ZW4tNy0zMmdiLTUxMmdiLXNzZC1udmlkaWEtcnR4LTQwNTAtMTUtNi1maGQtbGVkLWlwcy1hZ3Bvcy1uaC11MjBhbC0wMDIiLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDI4MjU4NiwiaWF0IjoxNzg2MzIwMjgyLCJleHAiOjE4MjA4ODAyODJ9.aiZeXEwQwJFjeKzluL4aJ5b4qBglKmpUVAMvusM1EOI",
+                "cashback": null,
+                "lastActivityAt": "8 h"
+            },
+            {
+                "id": "b0994de5-68bd-4d58-82a9-c97dd3a41407",
+                "slug": "notebook-acer-aspire-go-i5-13420h-8gb-ram-512gb-ssd-tela-156-fhd-tn-windows-11-ag15-71p-53gm-c9b9",
+                "title": "Notebook Acer Aspire Go i5-13420H, 8GB RAM, 512GB SSD, Tela 15,6\" FHD TN,  Windows 11 AG15-71P-53GM",
+                "temperature": 45,
+                "commentCount": 6,
+                "date": "3 dias",
+                "price": 3269,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-07T11:24:42.149Z",
+                "firstApprovedAt": "2026-08-07T11:25:12.883Z",
+                "store": {
+                    "id": "276",
+                    "name": "Magalu",
+                    "slug": "magalu",
+                    "logo": "/s/magazine-luiza-1776453552806.png",
+                    "linkingEnabled": true,
+                    "pageEnabled": true
+                },
+                "author": {
+                    "id": "631520",
+                    "nickname": "legnar",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/ral5HWn4H_UWru2Lsyiap4mXiYA=/100x100/filters:format(webp)/u/631520_1.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/JA4wnoagWTSB1kEMQNWOioreiMk=/0x100/filters:format(webp)/d/scp-b4w3-1786101813671.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/JA4wnoagWTSB1kEMQNWOioreiMk=/0x100/filters:format(webp)/d/scp-b4w3-1786101813671.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/icLz5BUoZaWTrbrWHM7rwU5JwlY=/0x200/filters:format(webp)/d/scp-b4w3-1786101813671.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/z3VGY2FR9jOaD4urlsjNyELc_zg=/0x300/filters:format(webp)/d/scp-b4w3-1786101813671.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.magazineluiza.com.br/notebook-acer-aspire-go-intel-core-i5-13420h-8gb-ram-512gb-ssd-156-full-hd-windows-11-ag15-71p-53gm/p/240354400/in/nota/?seller_id=magazineluiza",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5tYWdhemluZWx1aXphLmNvbS5ici9ub3RlYm9vay1hY2VyLWFzcGlyZS1nby1pbnRlbC1jb3JlLWk1LTEzNDIwaC04Z2ItcmFtLTUxMmdiLXNzZC0xNTYtZnVsbC1oZC13aW5kb3dzLTExLWFnMTUtNzFwLTUzZ20vcC8yNDAzNTQ0MDAvaW4vbm90YS8_c2VsbGVyX2lkPW1hZ2F6aW5lbHVpemEiLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDI4MjU4NiwiaWF0IjoxNzg2MzIwMjgyLCJleHAiOjE4MjA4ODAyODJ9.4DOeVDPmMtS7yj85vFje01-clHO4Qg4X1cC_kZr88vU",
+                "cashback": null,
+                "lastActivityAt": "14 h"
+            },
+            {
+                "id": "2c40b1ec-2541-44d0-80a9-0214e7bc3142",
+                "slug": "magalu-notebook-acer-nitro-v15-i5-512gb-ssd-16gb-ram-a393",
+                "title": "[Magalu] Notebook Gamer Acer Nitro V15 Intel Core i5 512GB SSD 16GB RAM 15.6\u201d Full HD 165Hz IPS NVIDIA RTX 4050 6GB Linux ANV15-52-52XM",
+                "temperature": 314,
+                "commentCount": 12,
+                "date": "3 dias",
+                "price": 5374,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-07T16:52:45.758Z",
+                "firstApprovedAt": "2026-08-07T16:53:03.536Z",
+                "store": {
+                    "id": "950",
+                    "name": "AliExpress",
+                    "slug": "aliexpress",
+                    "logo": "/s/vendor-containers-1779892687225.png",
+                    "linkingEnabled": true,
+                    "pageEnabled": true
+                },
+                "author": {
+                    "id": "c88165e9-7151-48c1-8237-4d95b3f2962a",
+                    "nickname": "cafeina",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/eb2jbHKaajU5-HnKpJ8bPuee0M4=/100x100/filters:format(webp)/u/314523cc-c4fc-450b-ba4f-59a9290a0b67.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/YN9pFysaPNPhuNzlxHs8ekXufR8=/0x100/filters:format(webp)/d/scp-81lzb-1786121505922.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/YN9pFysaPNPhuNzlxHs8ekXufR8=/0x100/filters:format(webp)/d/scp-81lzb-1786121505922.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/aLM0cTX4fJfmt02A8rvLj_rPfDY=/0x200/filters:format(webp)/d/scp-81lzb-1786121505922.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/YvAlQ1J-XkRZjTxVywKOIEVXaVI=/0x300/filters:format(webp)/d/scp-81lzb-1786121505922.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://pt.aliexpress.com/item/1005010170517576.html?search_direct=true&spm=a2g0o.productlist.0.0&gatewayAdapt=glo2bra",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3B0LmFsaWV4cHJlc3MuY29tL2l0ZW0vMTAwNTAxMDE3MDUxNzU3Ni5odG1sP3NlYXJjaF9kaXJlY3Q9dHJ1ZSZzcG09YTJnMG8ucHJvZHVjdGxpc3QuMC4wJmdhdGV3YXlBZGFwdD1nbG8yYnJhIiwiaXNUcmFja2VkIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODYzMjAyODI1ODcsImlhdCI6MTc4NjMyMDI4MiwiZXhwIjoxODIwODgwMjgyfQ.wRs3zrwGTmLuNxFJA60P5Z8sIA7CLX9y4j3vBZ_oeN0",
+                "cashback": null,
+                "lastActivityAt": "12 h"
+            },
+            {
+                "id": "da469381-4e77-4f0b-84c7-780209b84e0c",
+                "slug": "notebook-bom-2ef8",
+                "title": "Notebook Bom",
+                "temperature": 37,
+                "commentCount": 6,
+                "date": "4 dias",
+                "price": null,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-06T00:51:15.531Z",
+                "firstApprovedAt": "2026-08-06T00:54:28.052Z",
+                "author": {
+                    "id": "88cf0665-6018-4152-ac63-ea33c1514679",
+                    "nickname": "leonardovasconcelos6325",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/HLXMOGh02XeNYylCjBaEugO7qwY=/100x100/filters:format(webp)/u/imagecropper1784769144217-1784769145396.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "kind": "discussion",
+                "sourceUrl": "",
+                "cashback": null,
+                "lastActivityAt": "4 dias"
+            },
+            {
+                "id": "41439767-5801-46a5-8e36-8eff91b8cc01",
+                "slug": "qual-notebook-escolher-a3e2",
+                "title": "Qual notebook escolher? ",
+                "temperature": 108,
+                "commentCount": 4,
+                "date": "5 dias",
+                "price": null,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-05T19:58:59.703Z",
+                "firstApprovedAt": "2026-08-05T20:03:59.134Z",
+                "author": {
+                    "id": "555845",
+                    "nickname": "faellalves",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/F547gn6_hGK0-pExAF05TfNtGK4=/100x100/filters:format(webp)/u/555845_1.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "kind": "discussion",
+                "sourceUrl": null,
+                "cashback": null,
+                "lastActivityAt": "4 dias"
+            },
+            {
+                "id": "ce0ede9f-c515-4d81-a839-e2f2064ad4af",
+                "slug": "notebook-acer-aspire-go-15-i5-13420h-8gb-ram-256gb-ssd-tela-156-fhd-windows-11-cb60",
+                "title": "Notebook Acer Aspire Go 15 i5-13420H, 8GB RAM, 256GB SSD, Tela 15.6\u201d FHD, Windows 11",
+                "temperature": 20,
+                "commentCount": 2,
+                "date": "5 dias",
+                "price": 3239,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-05T11:36:02.482Z",
+                "firstApprovedAt": "2026-08-05T11:36:12.977Z",
+                "store": {
+                    "id": "367",
+                    "name": "Amazon",
+                    "slug": "amazon",
+                    "logo": "/s/amazon-1776453307003.png",
+                    "linkingEnabled": true,
+                    "pageEnabled": true
+                },
+                "author": {
+                    "id": "631520",
+                    "nickname": "legnar",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/ral5HWn4H_UWru2Lsyiap4mXiYA=/100x100/filters:format(webp)/u/631520_1.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/TmVCPIA6zidpsPGw5N8ZBPzXjcQ=/0x100/filters:format(webp)/d/scp-om966-1785929617540.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/TmVCPIA6zidpsPGw5N8ZBPzXjcQ=/0x100/filters:format(webp)/d/scp-om966-1785929617540.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/StbzWw8MG67slVhP7ur3D2uUZG8=/0x200/filters:format(webp)/d/scp-om966-1785929617540.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/ekQfpvwvQTEBpc3aUk26oiw038E=/0x300/filters:format(webp)/d/scp-om966-1785929617540.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-5939-Gera%C3%A7%C3%A3o-Windows/dp/B0B8MCB6KK/ref=sr_1_8?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HLQ7DHWMDTR0&dib=eyJ2IjoiMSJ9.H7KJzaDLIv8FkqiMZzmm8Kjw3VexkAIPxw73PBgQv0LFM8IzM20TXQxz5HYTElXwSCOUfV-mUghKmeltBTp6Pq52vs_XwjvSJGIvr1ODwJnSpPg4QjCoK1Rw1fqRqzyPODgWgOJjN0GVdXA8mzAY6zCDrYXAQpjXQ_4sKp59R5rc8nb3MHkX-w6E9f0JoPb4JzvbGn51E26f_berxmPg01WhYfPefRE5JHWeSlaiNyETG3dum7mjIPbLen6ENm6H0msJp-IK5wfMcBlX5hCgDT75x5CB4_pszwj_6erLUT4.TB_NqIkFdo3OrNOliWHtya_k0FhFwtKeDdWgCgFwysI&dib_tag=se&keywords=notebook&qid=1785929531&sprefix=notebook%2Cspecialty-aps%2C246&sr=8-8&ufe=app_do%3Aamzn1.fos.38059ce3-943c-48af-9fc9-22d85542b02c",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tLmJyL05vdGVib29rLUFzcGlyZS1BRzE1LTcxUC01OTM5LUdlcmElQzMlQTclQzMlQTNvLVdpbmRvd3MvZHAvQjBCOE1DQjZLSy9yZWY9c3JfMV84P19fbWtfcHRfQlI9JUMzJTg1TSVDMyU4NSVDNSVCRCVDMyU5NSVDMyU5MSZjcmlkPTJITFE3REhXTURUUjAmZGliPWV5SjJJam9pTVNKOS5IN0tKemFETEl2OEZrcWlNWnptbThLanczVmV4a0FJUHh3NzNQQmdRdjBMRk04SXpNMjBUWFF4ejVIWVRFbFh3U0NPVWZWLW1VZ2hLbWVsdEJUcDZQcTUydnNfWHdqdlNKR0l2cjFPRHdKblNwUGc0UWpDb0sxUncxZnFScXp5UE9EZ1dnT0pqTjBHVmRYQThtekFZNnpDRHJZWEFRcGpYUV80c0twNTlSNXJjOG5iM01Ia1gtdzZFOWYwSm9QYjRKenZiR241MUUyNmZfYmVyeG1QZzAxV2hZZlBlZlJFNUpIV2VTbGFpTnlFVEczZHVtN21qSVBiTGVuNkVObTZIMG1zSnAtSUs1d2ZNY0JsWDVoQ2dEVDc1eDVDQjRfcHN6d2pfNmVyTFVUNC5UQl9OcUlrRmRvM09yTk9saVdIdHlhX2swRmhGd3RLZURkV2dDZ0Z3eXNJJmRpYl90YWc9c2Uma2V5d29yZHM9bm90ZWJvb2smcWlkPTE3ODU5Mjk1MzEmc3ByZWZpeD1ub3RlYm9vayUyQ3NwZWNpYWx0eS1hcHMlMkMyNDYmc3I9OC04JnVmZT1hcHBfZG8lM0FhbXpuMS5mb3MuMzgwNTljZTMtOTQzYy00OGFmLTlmYzktMjJkODU1NDJiMDJjIiwiaXNUcmFja2VkIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODYzMjAyODI1ODcsImlhdCI6MTc4NjMyMDI4MiwiZXhwIjoxODIwODgwMjgyfQ.ME1bdiVnw5ogN2My9l0wpLY4FqGF9vHAx2qKiC2kGoE",
+                "cashback": null,
+                "lastActivityAt": "5 dias"
+            },
+            {
+                "id": "0d74881f-9694-4c16-8bcd-c39b009c0058",
+                "slug": "mochila-executiva-grande-notebook-antifurto-usb-6d4c",
+                "title": "Mochila Executiva Grande Notebook Antifurto USB",
+                "temperature": 114,
+                "commentCount": 1,
+                "date": "6 dias",
+                "price": 94.05,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-04T17:55:38.967Z",
+                "firstApprovedAt": "2026-08-04T18:00:40.778Z",
+                "store": {
+                    "id": "367",
+                    "name": "Amazon",
+                    "slug": "amazon",
+                    "logo": "/s/amazon-1776453307003.png",
+                    "linkingEnabled": true,
+                    "pageEnabled": true
+                },
+                "author": {
+                    "id": "524212",
+                    "nickname": "tarcisiojonathan",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/Nw8fj5EFXwqdZhLLyeBztYoFeS0=/100x100/filters:format(webp)/u/524212_1.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/NViq7hXxZELQFFM9M529RLRDecQ=/0x100/filters:format(webp)/d/crawler-image-48fca926-1ff1-4b64-abca-42746c97dbf9-1785866069908-1785866071434.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/NViq7hXxZELQFFM9M529RLRDecQ=/0x100/filters:format(webp)/d/crawler-image-48fca926-1ff1-4b64-abca-42746c97dbf9-1785866069908-1785866071434.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/W8rKB4_vKhE6DEgBB4ItdmyFWZE=/0x200/filters:format(webp)/d/crawler-image-48fca926-1ff1-4b64-abca-42746c97dbf9-1785866069908-1785866071434.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/cJ1pEVq5DUVaVcdA_IU4XFUlouw=/0x300/filters:format(webp)/d/crawler-image-48fca926-1ff1-4b64-abca-42746c97dbf9-1785866069908-1785866071434.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.amazon.com.br/dp/B0DHBJ7KPF?",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tLmJyL2RwL0IwREhCSjdLUEY_IiwiaXNUcmFja2VkIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODYzMjAyODI1ODcsImlhdCI6MTc4NjMyMDI4MiwiZXhwIjoxODIwODgwMjgyfQ.1uqHHMjFLrk9Ab5XJffB3Ct4i_HTcETW9ddyd9haJlE",
+                "cashback": null,
+                "lastActivityAt": "6 dias"
+            },
+            {
+                "id": "4696f757-2694-4e5f-bd2b-a5d8d4d34a11",
+                "slug": "notebook-gamer-acer-predator-helios-i7-32gb-ram-512gb-ssd-ea30",
+                "title": "Notebook Gamer Acer Predator Helios i7 32GB RAM 512GB SSD",
+                "temperature": 182,
+                "commentCount": 8,
+                "date": "6 dias",
+                "price": 9799,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-04T17:54:35.073Z",
+                "firstApprovedAt": "2026-08-04T17:58:42.943Z",
+                "store": {
+                    "id": "276",
+                    "name": "Magalu",
+                    "slug": "magalu",
+                    "logo": "/s/magazine-luiza-1776453552806.png",
+                    "linkingEnabled": true,
+                    "pageEnabled": true
+                },
+                "author": {
+                    "id": "0ef0e9be-c58d-478e-9a2c-b6a639b7ea07",
+                    "nickname": "zeyqw3",
+                    "topCreator": false,
+                    "isCreator": false
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/E2wLQTL6SD1bj9Xv08v8aToZA6g=/0x100/filters:format(webp)/d/scp-o9hsj-1785866048658.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/E2wLQTL6SD1bj9Xv08v8aToZA6g=/0x100/filters:format(webp)/d/scp-o9hsj-1785866048658.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/VNB0jyJzpNz85krgXn6UsgvaBik=/0x200/filters:format(webp)/d/scp-o9hsj-1785866048658.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/S8olFRa1qnsSVQPEg_b4twFyzYo=/0x300/filters:format(webp)/d/scp-o9hsj-1785866048658.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.magazineluiza.com.br/notebook-gamer-acer-predator-helios-phn16-72-75tx-intel-core-i7-14700hx-32gb-ram-512gb-ssd-rtx4070-w11-home/p/keb654h0ee/in/nota/?seller_id=aceroficial",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5tYWdhemluZWx1aXphLmNvbS5ici9ub3RlYm9vay1nYW1lci1hY2VyLXByZWRhdG9yLWhlbGlvcy1waG4xNi03Mi03NXR4LWludGVsLWNvcmUtaTctMTQ3MDBoeC0zMmdiLXJhbS01MTJnYi1zc2QtcnR4NDA3MC13MTEtaG9tZS9wL2tlYjY1NGgwZWUvaW4vbm90YS8_c2VsbGVyX2lkPWFjZXJvZmljaWFsIiwiaXNUcmFja2VkIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODYzMjAyODI1ODcsImlhdCI6MTc4NjMyMDI4MiwiZXhwIjoxODIwODgwMjgyfQ.ysup1LS24RqGV7RNZNWGIYB7vNos76GnP0FOEaYNuMs",
+                "cashback": null,
+                "lastActivityAt": "4 dias"
+            },
+            {
+                "id": "ed82bc48-b3be-461c-b016-3e4887d9ae53",
+                "slug": "memoria-notebook-tgt-shiver-100-8gb-ddr3-1600mhz-6027",
+                "title": "Mem\u00f3ria Notebook TGT Shiver 100, 8GB, DDR3, 1600MHz",
+                "temperature": 93,
+                "commentCount": 5,
+                "date": "6 dias",
+                "price": 84.99,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-04T12:53:25.692Z",
+                "firstApprovedAt": "2026-08-04T12:54:13.089Z",
+                "store": {
+                    "id": "385",
+                    "name": "Pichau",
+                    "slug": "pichau",
+                    "logo": "s/385_1.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "631520",
+                    "nickname": "legnar",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/ral5HWn4H_UWru2Lsyiap4mXiYA=/100x100/filters:format(webp)/u/631520_1.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/ANBQKzxYBm4mOyzsptNwsc8hfeM=/0x100/filters:format(webp)/d/scp-lby8p-1785847918095.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/ANBQKzxYBm4mOyzsptNwsc8hfeM=/0x100/filters:format(webp)/d/scp-lby8p-1785847918095.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/X2_uCWc9v-OZdBAJ0k1EZdDmUiI=/0x200/filters:format(webp)/d/scp-lby8p-1785847918095.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/GcCvQdRXP6RKMgLmaENWWFU5cq8=/0x300/filters:format(webp)/d/scp-lby8p-1785847918095.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.pichau.com.br/memoria-notebook-tgt-shiver-100-8gb-1x8gb-ddr3-1600mhz-c11-tgt-svr100-8gb?gad_source=4&gad_campaignid=21095506267&gbraid=0AAAAADvAK92Cl3TvUT4ymH56-wzSiV6KH&gclid=Cj0KCQjwm8bTBhDWARIsAC9Hi8nC352hUmMRiIbyb_-jqNOmwMWWWhMBju0-VabB0c9dNnGM4Mlak1YaAvq4EALw_wcB",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5waWNoYXUuY29tLmJyL21lbW9yaWEtbm90ZWJvb2stdGd0LXNoaXZlci0xMDAtOGdiLTF4OGdiLWRkcjMtMTYwMG1oei1jMTEtdGd0LXN2cjEwMC04Z2I_Z2FkX3NvdXJjZT00JmdhZF9jYW1wYWlnbmlkPTIxMDk1NTA2MjY3JmdicmFpZD0wQUFBQUFEdkFLOTJDbDNUdlVUNHltSDU2LXd6U2lWNktIJmdjbGlkPUNqMEtDUWp3bThiVEJoRFdBUklzQUM5SGk4bkMzNTJoVW1NUmlJYnliXy1qcU5PbXdNV1dXaE1CanUwLVZhYkIwYzlkTm5HTTRNbGFrMVlhQXZxNEVBTHdfd2NCIiwiaXNUcmFja2VkIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODYzMjAyODI1ODcsImlhdCI6MTc4NjMyMDI4MiwiZXhwIjoxODIwODgwMjgyfQ.YojQTJTZuyDkBgSwrztygPFWy4ZnLGDIdBJrFR1Q3Ps",
+                "cashback": null,
+                "lastActivityAt": "5 dias"
+            },
+            {
+                "id": "938d597a-bfcf-4f4e-8bff-9ad2f16d726f",
+                "slug": "notebook-asus-tuf-a16-ryzen-7-rtx-4050-16-b6df",
+                "title": "Notebook ASUS TUF Gamer A16 FA607NUQ NVIDIA RTX 4050 AMD Ryzen 7 8GB RAM 512GB 144Hz-RL035",
+                "temperature": 967,
+                "commentCount": 42,
+                "date": "6 dias",
+                "price": 5427,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-04T18:48:10.074Z",
+                "firstApprovedAt": "2026-08-04T18:48:12.950Z",
+                "store": {
+                    "id": "269",
+                    "name": "Casas Bahia",
+                    "slug": "casas-bahia",
+                    "logo": "s/casas_bahia_bd77bf4d.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "c88165e9-7151-48c1-8237-4d95b3f2962a",
+                    "nickname": "cafeina",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/eb2jbHKaajU5-HnKpJ8bPuee0M4=/100x100/filters:format(webp)/u/314523cc-c4fc-450b-ba4f-59a9290a0b67.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/FK-w2z5fiUDN3avZAch1o1HliKg=/0x100/filters:format(webp)/d/scp-1wvdd-1785869284011.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/FK-w2z5fiUDN3avZAch1o1HliKg=/0x100/filters:format(webp)/d/scp-1wvdd-1785869284011.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/U78gTEEl2t7m6C3dbaUrSFB952E=/0x200/filters:format(webp)/d/scp-1wvdd-1785869284011.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/DJynkVNbs6LRFUruFaJr54y-uoo=/0x300/filters:format(webp)/d/scp-1wvdd-1785869284011.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.casasbahia.com.br/notebook-asus-tuf-gamer-a16-fa607nuq-nvidia-rtx-4050-amd-ryzen-7-8gb-ram-512gb-ssd-linux-16-quot-lcd-led-ips-fhd-144hz-rl035/p/1582697909?",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5jYXNhc2JhaGlhLmNvbS5ici9ub3RlYm9vay1hc3VzLXR1Zi1nYW1lci1hMTYtZmE2MDdudXEtbnZpZGlhLXJ0eC00MDUwLWFtZC1yeXplbi03LThnYi1yYW0tNTEyZ2Itc3NkLWxpbnV4LTE2LXF1b3QtbGNkLWxlZC1pcHMtZmhkLTE0NGh6LXJsMDM1L3AvMTU4MjY5NzkwOT8iLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDI4MjU4NywiaWF0IjoxNzg2MzIwMjgyLCJleHAiOjE4MjA4ODAyODJ9.HsSHWJXuhm-Kij__uORzJDDNos5ue3fvCik6ALZYlQk",
+                "cashback": null,
+                "lastActivityAt": "4 dias"
+            },
+            {
+                "id": "599c7af5-eb07-4e12-8a9a-b80c68803694",
+                "slug": "qual-notebook-favorito-e6a3",
+                "title": "Qual notebook favorito? ",
+                "temperature": 44,
+                "commentCount": 4,
+                "date": "6 dias",
+                "price": null,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-04T00:30:41.251Z",
+                "firstApprovedAt": "2026-08-04T00:31:22.629Z",
+                "author": {
+                    "id": "d2ccc07b-fd90-4faa-99cc-8082668c3db6",
+                    "nickname": "paulovictor41",
+                    "topCreator": false,
+                    "isCreator": false
+                },
+                "userVote": null,
+                "lastComment": null,
+                "kind": "discussion",
+                "sourceUrl": null,
+                "cashback": null,
+                "lastActivityAt": "6 dias"
+            },
+            {
+                "id": "abeea1b5-2193-4287-90b7-edf9114e8258",
+                "slug": "notebook-lenovo-yoga-slim-7i-16gb-512gb-ssd-oled-c094",
+                "title": "[ PRIMEIRA COMPRA R$5.255,39 ] Notebook Lenovo Yoga Slim 7i 16GB 512GB SSD OLED",
+                "temperature": -191,
+                "commentCount": 8,
+                "date": "7 dias",
+                "price": 5255.39,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-03T22:40:14.842Z",
+                "firstApprovedAt": "2026-08-03T22:46:51.769Z",
+                "store": {
+                    "id": "296",
+                    "name": "Fast Shop",
+                    "slug": "fast-shop",
+                    "logo": "s/13f743e8-5b77-478f-93b2-1be7c275a324.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "5786c6fb-5f01-4136-89bc-0891d9c7e797",
+                    "nickname": "fabio.tg",
+                    "topCreator": false,
+                    "isCreator": false
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/awTAZXmztE-p-S7lZCNaQbruOFc=/0x100/filters:format(webp)/d/crawler-image-aaaa8938-d9de-484c-ad70-afb118997bfc-1785796713925-1785796715843.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/awTAZXmztE-p-S7lZCNaQbruOFc=/0x100/filters:format(webp)/d/crawler-image-aaaa8938-d9de-484c-ad70-afb118997bfc-1785796713925-1785796715843.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/_iGB1N5bnvsLlKDBESlo7IuYkxM=/0x200/filters:format(webp)/d/crawler-image-aaaa8938-d9de-484c-ad70-afb118997bfc-1785796713925-1785796715843.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/YudlnGS6cpi3J_stG1tvitjx7l8=/0x300/filters:format(webp)/d/crawler-image-aaaa8938-d9de-484c-ad70-afb118997bfc-1785796713925-1785796715843.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://site.fastshop.com.br/notebook-lenovo-yoga-slim-7i-intel-core-ultra-5--16gb--512gb-ssd--tela-de-14--oled--windows-11---83gm0003br-l283gm0003br_prd-65794/p",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3NpdGUuZmFzdHNob3AuY29tLmJyL25vdGVib29rLWxlbm92by15b2dhLXNsaW0tN2ktaW50ZWwtY29yZS11bHRyYS01LS0xNmdiLS01MTJnYi1zc2QtLXRlbGEtZGUtMTQtLW9sZWQtLXdpbmRvd3MtMTEtLS04M2dtMDAwM2JyLWwyODNnbTAwMDNicl9wcmQtNjU3OTQvcCIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMjgyNTg4LCJpYXQiOjE3ODYzMjAyODIsImV4cCI6MTgyMDg4MDI4Mn0.LIUkS2F-A4-YIWNgnme8JSmrfyX-QvqMJR3OfCaJU7U",
+                "cashback": null,
+                "lastActivityAt": "6 dias"
+            },
+            {
+                "id": "5c9aeba8-2fc6-4d3d-85c8-cd70b655aebb",
+                "slug": "vale-a-pena-comprar-o-notebook-positivo-15m-920a",
+                "title": "Vale a pena comprar o notebook positivo 15m?",
+                "temperature": 16,
+                "commentCount": 1,
+                "date": "7 dias",
+                "price": null,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-03T15:48:47.256Z",
+                "firstApprovedAt": "2026-08-03T15:51:55.228Z",
+                "author": {
+                    "id": "15f14beb-cfc6-40c1-ab33-ad59389b8873",
+                    "nickname": "luann214",
+                    "topCreator": false,
+                    "isCreator": false
+                },
+                "userVote": null,
+                "lastComment": null,
+                "kind": "discussion",
+                "sourceUrl": null,
+                "cashback": null,
+                "lastActivityAt": "7 dias"
+            },
+            {
+                "id": "97bd4e65-bc13-4b9c-bc89-88361b6b0610",
+                "slug": "notebook-asus-vivobook-15-ryzen-7-5825u-16gb-ram-512gb-ssd-tela-156-fhd-linux-53e1",
+                "title": "Notebook ASUS Vivobook 15 Ryzen 7 5825U, 16GB RAM, 512GB SSD, Tela 15,6\" FHD, Linux",
+                "temperature": 138,
+                "commentCount": 4,
+                "date": "7 dias",
+                "price": 3415,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-03T11:21:47.299Z",
+                "firstApprovedAt": "2026-08-03T11:22:13.000Z",
+                "store": {
+                    "id": "1730",
+                    "name": "Shopee",
+                    "slug": "shopee",
+                    "logo": "s/6eeef466-1b80-4df2-bb8e-92a2907ed562.png",
+                    "linkingEnabled": true,
+                    "pageEnabled": true
+                },
+                "author": {
+                    "id": "631520",
+                    "nickname": "legnar",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/ral5HWn4H_UWru2Lsyiap4mXiYA=/100x100/filters:format(webp)/u/631520_1.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/zvdLUEELBqm9duCiQK67HHDA8qQ=/0x100/filters:format(webp)/d/scp-oh2pa-1785756064983.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/zvdLUEELBqm9duCiQK67HHDA8qQ=/0x100/filters:format(webp)/d/scp-oh2pa-1785756064983.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/vzpXLZklJXEOEM9h65_4sO9-wps=/0x200/filters:format(webp)/d/scp-oh2pa-1785756064983.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/CNRJCSMLkYMFO32erXDB02pHhJ8=/0x300/filters:format(webp)/d/scp-oh2pa-1785756064983.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://shopee.com.br/Notebook-ASUS-Vivobook-15-M1502YA-AMD-Ryzen-7-5825U-16GB-Ram-512GB-SSD-Linux-15-6-FHD-Silver-NJ612-i.1644527155.22799142917?extraParams=%7B%22display_model_id%22%3A238794664734%2C%22model_selection_logic%22%3A3%7D",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3Nob3BlZS5jb20uYnIvTm90ZWJvb2stQVNVUy1WaXZvYm9vay0xNS1NMTUwMllBLUFNRC1SeXplbi03LTU4MjVVLTE2R0ItUmFtLTUxMkdCLVNTRC1MaW51eC0xNS02LUZIRC1TaWx2ZXItTko2MTItaS4xNjQ0NTI3MTU1LjIyNzk5MTQyOTE3P2V4dHJhUGFyYW1zPSU3QiUyMmRpc3BsYXlfbW9kZWxfaWQlMjIlM0EyMzg3OTQ2NjQ3MzQlMkMlMjJtb2RlbF9zZWxlY3Rpb25fbG9naWMlMjIlM0EzJTdEIiwiaXNUcmFja2VkIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODYzMjAyODI1ODgsImlhdCI6MTc4NjMyMDI4MiwiZXhwIjoxODIwODgwMjgyfQ.U0TCPrdhn2NH73emu4oLPfylFjcZYGNwf7cVMxMMMaA",
+                "cashback": null,
+                "lastActivityAt": "6 dias"
+            },
+            {
+                "id": "dac48151-2089-44ea-b7ac-ebdc2ee5d4c5",
+                "slug": "notebook-asus-vivobook-go-15-ryzen-5-7520u-16gb-ram-512gb-ssd-tela-156-fhd-linux-9044",
+                "title": "Notebook ASUS Vivobook Go 15 Ryzen 5-7520U, 16GB Ram, 512GB SSD, Tela 15,6\" FHD, Linux",
+                "temperature": 183,
+                "commentCount": 16,
+                "date": "7 dias",
+                "price": 3295,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-03T11:24:40.631Z",
+                "firstApprovedAt": "2026-08-03T11:25:12.949Z",
+                "store": {
+                    "id": "1730",
+                    "name": "Shopee",
+                    "slug": "shopee",
+                    "logo": "s/6eeef466-1b80-4df2-bb8e-92a2907ed562.png",
+                    "linkingEnabled": true,
+                    "pageEnabled": true
+                },
+                "author": {
+                    "id": "631520",
+                    "nickname": "legnar",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/ral5HWn4H_UWru2Lsyiap4mXiYA=/100x100/filters:format(webp)/u/631520_1.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/pcYHoGFAvuByiuvK8mEAz6xavzQ=/0x100/filters:format(webp)/d/scp-tsur-1785756184865.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/pcYHoGFAvuByiuvK8mEAz6xavzQ=/0x100/filters:format(webp)/d/scp-tsur-1785756184865.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/2RJL1dyGwGGO8HfSyRz58DRyCMw=/0x200/filters:format(webp)/d/scp-tsur-1785756184865.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/Rv5P0IaX70cpy97yuByakMv6YSI=/0x300/filters:format(webp)/d/scp-tsur-1785756184865.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://shopee.com.br/Notebook-ASUS-Vivobook-Go-15-E1504FA-AMD-Ryzen-5-7520U-16GB-Ram-512GB-SSD-Linux-Tela-15-6-LED-NJ1288-i.1644527155.22994626012?extraParams=%7B%22display_model_id%22%3A199181305808%2C%22model_selection_logic%22%3A3%7D",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3Nob3BlZS5jb20uYnIvTm90ZWJvb2stQVNVUy1WaXZvYm9vay1Hby0xNS1FMTUwNEZBLUFNRC1SeXplbi01LTc1MjBVLTE2R0ItUmFtLTUxMkdCLVNTRC1MaW51eC1UZWxhLTE1LTYtTEVELU5KMTI4OC1pLjE2NDQ1MjcxNTUuMjI5OTQ2MjYwMTI_ZXh0cmFQYXJhbXM9JTdCJTIyZGlzcGxheV9tb2RlbF9pZCUyMiUzQTE5OTE4MTMwNTgwOCUyQyUyMm1vZGVsX3NlbGVjdGlvbl9sb2dpYyUyMiUzQTMlN0QiLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDI4MjU4OCwiaWF0IjoxNzg2MzIwMjgyLCJleHAiOjE4MjA4ODAyODJ9.HODX8LrSWroBOUpjpR6IGSd6ZejA5S640H1iZ4pd_Mk",
+                "cashback": null,
+                "lastActivityAt": "6 dias"
+            },
+            {
+                "id": "75029fcf-33f6-4fdf-b0c2-620e37b2edfe",
+                "slug": "novo-notebook-dell-15-core-i5-1334u-8gb-ram-512-gb-ssd-tela-156-fhd-120hz-ips-linux-2bd9",
+                "title": "Novo Notebook Dell 15 Core i5-1334U, 8GB RAM, 512 GB SSD, Tela 15.6\" FHD 120hz IPS, Linux",
+                "temperature": 143,
+                "commentCount": 3,
+                "date": "7 dias",
+                "price": 3407,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-03T11:59:39.267Z",
+                "firstApprovedAt": "2026-08-03T12:00:12.843Z",
+                "store": {
+                    "id": "511",
+                    "name": "Dell",
+                    "slug": "dell",
+                    "logo": "s/0fae2644-a871-4ec8-849c-512254a0a0dc.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "631520",
+                    "nickname": "legnar",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/ral5HWn4H_UWru2Lsyiap4mXiYA=/100x100/filters:format(webp)/u/631520_1.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/saxnLY7UW6rHsCc6FJtMYeCyiVo=/0x100/filters:format(webp)/d/scp-67gto-1785758229441.psd",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/saxnLY7UW6rHsCc6FJtMYeCyiVo=/0x100/filters:format(webp)/d/scp-67gto-1785758229441.psd",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/cfWn8g0ACp61GiCYxDcieDAhud4=/0x200/filters:format(webp)/d/scp-67gto-1785758229441.psd",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/352Uvq5lX1jiWdFfOl84rH94L3Y=/0x300/filters:format(webp)/d/scp-67gto-1785758229441.psd",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.dell.com/pt-br/shop/notebooks-dell/novo-notebook-dell-15/spd/dell-dc15250-laptop?_gl=1*1vi3by9*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw-MDTBhCgARIsAKAkdlTcND46uzP3PF5CNDR3NqPLBezES-PaW69j8Teentna13ltKP9hNoIaApKAEALw_wcB&gclsrc=aw.ds&gbraid=0AAAAADz5MFsj6JLkOk_magpyAjMMwSUoz",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5kZWxsLmNvbS9wdC1ici9zaG9wL25vdGVib29rcy1kZWxsL25vdm8tbm90ZWJvb2stZGVsbC0xNS9zcGQvZGVsbC1kYzE1MjUwLWxhcHRvcD9fZ2w9MSoxdmkzYnk5Kl91cCpNUS4uKl9ncypNUS4uJmdjbGlkPUNqMEtDUWp3LU1EVEJoQ2dBUklzQUtBa2RsVGNORDQ2dXpQM1BGNUNORFIzTnFQTEJlekVTLVBhVzY5ajhUZWVudG5hMTNsdEtQOWhOb0lhQXBLQUVBTHdfd2NCJmdjbHNyYz1hdy5kcyZnYnJhaWQ9MEFBQUFBRHo1TUZzajZKTGtPa19tYWdweUFqTU13U1VveiIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMjgyNTg4LCJpYXQiOjE3ODYzMjAyODIsImV4cCI6MTgyMDg4MDI4Mn0.rpdRd_qaebnDKwCWU-SHYzd1b0yEGHOn2YzBuxmWReg",
+                "cashback": null,
+                "lastActivityAt": "6 dias"
+            },
+            {
+                "id": "de580112-0d28-4c7c-836d-fae37a9ac8d7",
+                "slug": "mochila-notebook-frigg-pet-reciclado-eco-antifurto-47f5",
+                "title": "Mochila Notebook Frigg Pet Reciclado ECO Antifurto",
+                "temperature": 40,
+                "commentCount": 2,
+                "date": "8 dias",
+                "price": 95,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-02T15:17:27.501Z",
+                "firstApprovedAt": "2026-08-02T15:18:58.938Z",
+                "store": {
+                    "id": "367",
+                    "name": "Amazon",
+                    "slug": "amazon",
+                    "logo": "/s/amazon-1776453307003.png",
+                    "linkingEnabled": true,
+                    "pageEnabled": true
+                },
+                "author": {
+                    "id": "819496",
+                    "nickname": "saccini",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/pwCQxF-I85EZOw9CvjFcCA-sKvo=/100x100/filters:format(webp)/u/819496_1.png"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/w9PTshbD8f4jCNOn9h5I2G_0SSo=/0x100/filters:format(webp)/d/crawler-image-a9fd7e69-f0b9-4f8c-9e3b-5b1355f506de-1785683820409-1785683821938.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/w9PTshbD8f4jCNOn9h5I2G_0SSo=/0x100/filters:format(webp)/d/crawler-image-a9fd7e69-f0b9-4f8c-9e3b-5b1355f506de-1785683820409-1785683821938.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/4oRtTjFbTEze60s-yajJazrTaQA=/0x200/filters:format(webp)/d/crawler-image-a9fd7e69-f0b9-4f8c-9e3b-5b1355f506de-1785683820409-1785683821938.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/sbvAfSP_pBmUF6RHUqjIe6Nahvg=/0x300/filters:format(webp)/d/crawler-image-a9fd7e69-f0b9-4f8c-9e3b-5b1355f506de-1785683820409-1785683821938.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.amazon.com.br/dp/B0BHJK4BG1?th=1",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tLmJyL2RwL0IwQkhKSzRCRzE_dGg9MSIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMjgyNTg4LCJpYXQiOjE3ODYzMjAyODIsImV4cCI6MTgyMDg4MDI4Mn0.JzW0g_GfYWPNpSV9b4ZXVn4aRLapBwFmc0epxWzRyug",
+                "cashback": null,
+                "lastActivityAt": "8 dias"
+            },
+            {
+                "id": "a089a48e-89ec-4399-8c74-502361b4227e",
+                "slug": "memoria-ram-notebook-16gb-ddr4-3200mhz-0426",
+                "title": "Mem\u00f3ria RAM Notebook 16GB DDR4 3200MHz",
+                "temperature": 379,
+                "commentCount": 4,
+                "date": "9 dias",
+                "price": 524.99,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-01T19:07:28.457Z",
+                "firstApprovedAt": "2026-08-01T19:08:12.988Z",
+                "store": {
+                    "id": "300",
+                    "name": "KaBuM!",
+                    "slug": "kabum",
+                    "logo": "/s/kabum-1776453511048.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "520155",
+                    "nickname": "analisede_tudo",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/yaPMUsqMOrfpKcYl81NHffoBdAE=/100x100/filters:format(webp)/u/520155_2.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/177Uyn14AUSvDg2qTH9txklUiG8=/0x100/filters:format(webp)/d/crawler-image-7db874ef-fe49-4e7f-bc46-b11a011558c2-1785611234470-1785611235971.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/177Uyn14AUSvDg2qTH9txklUiG8=/0x100/filters:format(webp)/d/crawler-image-7db874ef-fe49-4e7f-bc46-b11a011558c2-1785611234470-1785611235971.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/pyniEWx84qeutM59FK1zFLz8JrI=/0x200/filters:format(webp)/d/crawler-image-7db874ef-fe49-4e7f-bc46-b11a011558c2-1785611234470-1785611235971.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/aILVGfuEvnVCW4wBhZulWF4saAQ=/0x300/filters:format(webp)/d/crawler-image-7db874ef-fe49-4e7f-bc46-b11a011558c2-1785611234470-1785611235971.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.kabum.com.br/produto/480402/memoria-ram-para-notebook-rise-mode-value-16gb-3200mhz-ddr4-cl22-rm-d4-16g-3200vn",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5rYWJ1bS5jb20uYnIvcHJvZHV0by80ODA0MDIvbWVtb3JpYS1yYW0tcGFyYS1ub3RlYm9vay1yaXNlLW1vZGUtdmFsdWUtMTZnYi0zMjAwbWh6LWRkcjQtY2wyMi1ybS1kNC0xNmctMzIwMHZuIiwiaXNUcmFja2VkIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODYzMjAyODI1ODgsImlhdCI6MTc4NjMyMDI4MiwiZXhwIjoxODIwODgwMjgyfQ.gL_e0xb7jdP0B5yNVK5hipKJm7Kd0q7moI4odm6X0YQ",
+                "cashback": null,
+                "lastActivityAt": "5 dias"
+            }
+        ],
+        "pageInfo": {
+            "page": 0,
+            "total": 10000
+        }
+    },
+    "timestamp": "2026-08-10T00:04:42.588Z"
+}

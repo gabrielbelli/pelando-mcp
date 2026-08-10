@@ -1,0 +1,132 @@
+{
+    "data": {
+        "stores": [
+            {
+                "id": "300",
+                "name": "KaBuM!",
+                "slug": "kabum",
+                "url": "https://www.kabum.com.br/",
+                "logo": "https://media.pelando.com.br/A2rQgvtvc7FBG67dpriHyXNjq0Y=/0x160/filters:format(webp)/s/kabum-1776453511048.png",
+                "couponCount": 60,
+                "promotionCount": 177,
+                "coupons": [
+                    {
+                        "userVote": null,
+                        "id": "b3fd92be-fa0f-4bc1-a6c4-06fd6ca528a5",
+                        "title": "R$400 OFF em Impressora 3D Selecionada",
+                        "description": "Para itens da seleção, por tempo limitado.",
+                        "rulesDescription": "Para itens da seleção, por tempo limitado.",
+                        "status": "active",
+                        "couponCode": "400OFF3D",
+                        "discountFixed": 400,
+                        "slug": "r-400-off-em-impressora-3d-selecionada-5d37",
+                        "freeShipping": false,
+                        "sourceUrl": "https://www.kabum.com.br/produto/679162/impressora-3d-bambu-lab-a1-com-ams-lite-velocidade-de-impressao-500mm-s-wi-fi-bambu-bus-bivolt-pf002-a-sa005-bra",
+                        "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5rYWJ1bS5jb20uYnIvcHJvZHV0by82NzkxNjIvaW1wcmVzc29yYS0zZC1iYW1idS1sYWItYTEtY29tLWFtcy1saXRlLXZlbG9jaWRhZGUtZGUtaW1wcmVzc2FvLTUwMG1tLXMtd2ktZmktYmFtYnUtYnVzLWJpdm9sdC1wZjAwMi1hLXNhMDA1LWJyYSIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMjM3ODgwLCJpYXQiOjE3ODYzMjAyMzcsImV4cCI6MTgyMDg4MDIzN30.sfLFugN7Z24vPfzNSnH5bdZNvPDfMMfS5S7j2-f4WhI",
+                        "temperature": 31,
+                        "commentCount": 0,
+                        "createdAt": "2026-07-31T11:00:00.042Z"
+                    },
+                    {
+                        "userVote": null,
+                        "id": "528c75e0-1fcd-44e8-b1ad-741c8c951697",
+                        "title": "Aproveite 15% OFF em Produtos Selecionados",
+                        "description": "Válido por tempo limitado em produtos selecionados.",
+                        "rulesDescription": "Válido por tempo limitado em produtos selecionados.",
+                        "status": "active",
+                        "couponCode": "SEMGHOST15",
+                        "discountPercentage": 15,
+                        "slug": "aproveite-15-off-em-produtos-selecionados-ea9c",
+                        "freeShipping": false,
+                        "sourceUrl": "https://www.kabum.com.br/promocao/CP1SEMGHOST15",
+                        "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5rYWJ1bS5jb20uYnIvcHJvbW9jYW8vQ1AxU0VNR0hPU1QxNSIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMjM3ODgwLCJpYXQiOjE3ODYzMjAyMzcsImV4cCI6MTgyMDg4MDIzN30.Qu3Vg5dECoCVRw2i8sCotYqIJeKlLhUhqHdB5sssuZc",
+                        "temperature": 31,
+                        "commentCount": 0,
+                        "createdAt": "2026-07-31T11:00:00.042Z"
+                    },
+                    {
+                        "userVote": null,
+                        "id": "259d7da6-aa76-451d-b33b-b8545c35f565",
+                        "title": "15% OFF em Softwares Selecionados",
+                        "description": "Somente produtos com a tag indicada na página. Um uso por conta.",
+                        "rulesDescription": "Somente produtos com a tag indicada na página. Um uso por conta.",
+                        "status": "active",
+                        "couponCode": "15OFFSOFT",
+                        "discountPercentage": 15,
+                        "slug": "15-off-em-softwares-selecionados-aabe",
+                        "freeShipping": false,
+                        "sourceUrl": "https://www.kabum.com.br/computadores/softwares?page_number=1&page_size=60&facet_filters=eyJrYWJ1bV9wcm9kdWN0IjpbInRydWUiXX0=&sort=most_searched",
+                        "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5rYWJ1bS5jb20uYnIvY29tcHV0YWRvcmVzL3NvZnR3YXJlcz9wYWdlX251bWJlcj0xJnBhZ2Vfc2l6ZT02MCZmYWNldF9maWx0ZXJzPWV5SnJZV0oxYlY5d2NtOWtkV04wSWpwYkluUnlkV1VpWFgwPSZzb3J0PW1vc3Rfc2VhcmNoZWQiLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDIzNzg4MCwiaWF0IjoxNzg2MzIwMjM3LCJleHAiOjE4MjA4ODAyMzd9.tFqZ9JA5UenGP6hVMM16zaEn1wnU3uQ1wLDoQ6RIHDw",
+                        "temperature": 31,
+                        "commentCount": 0,
+                        "createdAt": "2026-07-31T11:00:00.042Z"
+                    },
+                    {
+                        "userVote": null,
+                        "id": "11457ea1-cbc1-4126-bd22-54bc1fe908f0",
+                        "title": "7% OFF em Produtos Selecionados",
+                        "description": "Válido por tempo limitado em produtos selecionados.",
+                        "rulesDescription": "Válido por tempo limitado em produtos selecionados.",
+                        "status": "active",
+                        "couponCode": "TV7",
+                        "discountPercentage": 7,
+                        "slug": "7-off-em-produtos-selecionados-a9c4",
+                        "freeShipping": false,
+                        "sourceUrl": "https://www.kabum.com.br/promocao/CP3TV7",
+                        "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5rYWJ1bS5jb20uYnIvcHJvbW9jYW8vQ1AzVFY3IiwiaXNUcmFja2VkIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODYzMjAyMzc4ODAsImlhdCI6MTc4NjMyMDIzNywiZXhwIjoxODIwODgwMjM3fQ.2IvSNhZH5rO84SrrXVg9lNkg7ERLIxqBxUF5nu9QpVo",
+                        "temperature": 31,
+                        "commentCount": 0,
+                        "createdAt": "2026-07-31T11:00:00.042Z"
+                    },
+                    {
+                        "userVote": null,
+                        "id": "2367ba91-81a2-4291-acc4-322d5f63fff7",
+                        "title": "R$25 OFF em Itens de Decoração",
+                        "description": "Desconto válido por tempo limitado.",
+                        "rulesDescription": "Desconto válido por tempo limitado.",
+                        "status": "active",
+                        "couponCode": "DECOR25",
+                        "discountFixed": 25,
+                        "slug": "r-25-off-em-itens-de-decora-o-f188",
+                        "freeShipping": false,
+                        "sourceUrl": "https://www.kabum.com.br/promocao/CP3DECOR25",
+                        "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5rYWJ1bS5jb20uYnIvcHJvbW9jYW8vQ1AzREVDT1IyNSIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMjM3ODgwLCJpYXQiOjE3ODYzMjAyMzcsImV4cCI6MTgyMDg4MDIzN30.cYYvdDYSklAs6bl6OPAc0gi1OOG7WcaO7FFmZjH5NqU",
+                        "temperature": 31,
+                        "commentCount": 0,
+                        "createdAt": "2026-07-31T11:00:00.042Z"
+                    },
+                    {
+                        "userVote": null,
+                        "id": "21d26b4d-fb7b-4083-ac43-63d367c35987",
+                        "title": "12% OFF em Produtos HyperX",
+                        "description": "Para itens da seleção, por tempo limitado.",
+                        "rulesDescription": "Para itens da seleção, por tempo limitado.",
+                        "status": "active",
+                        "couponCode": "HYPERX12",
+                        "discountPercentage": 12,
+                        "slug": "12-off-em-produtos-hyperx-0eb5",
+                        "freeShipping": false,
+                        "sourceUrl": "https://www.kabum.com.br/promocao/CP1HYPERX12",
+                        "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5rYWJ1bS5jb20uYnIvcHJvbW9jYW8vQ1AxSFlQRVJYMTIiLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDIzNzg4MCwiaWF0IjoxNzg2MzIwMjM3LCJleHAiOjE4MjA4ODAyMzd9.2ksBODZKugHfZOaJogOmTiX8JHy8U4Er5wgjKuY7nk0",
+                        "temperature": 31,
+                        "commentCount": 0,
+                        "createdAt": "2026-07-31T11:00:00.042Z"
+                    }
+                ],
+                "faq": [],
+                "linkingEnabled": false,
+                "pageEnabled": false,
+                "openGraphImageUrl": "https://media.pelando.com.br/VxKJ1ScS4u6DG8U-GyQLgJEc-5U=/0x400/filters:format(webp)/s/kabum-1776453511048.png"
+            }
+        ],
+        "meta": {
+            "totalCount": 1,
+            "term": "kabum"
+        },
+        "pageInfo": {
+            "page": 1,
+            "total": 1
+        }
+    },
+    "timestamp": "2026-08-10T00:03:57.880Z"
+}

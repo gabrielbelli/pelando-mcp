@@ -1,0 +1,25 @@
+# Block specific crawlers
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: ManusBot
+Disallow: /
+
+# General rules
+
+User-agent: *
+Allow: /
+
+Disallow: /postar
+Disallow: /meus-alertas
+Disallow: /promocoes-salvas
+Disallow: /configuracoes
+Disallow: /cashback
+Disallow: /atendimento
+Disallow: /meu-perfil
+
+Sitemap: https://www.pelando.com.br/sitemaps/sitemap.xml

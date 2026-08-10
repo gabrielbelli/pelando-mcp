@@ -1,0 +1,214 @@
+{
+    "data": {
+        "stores": [
+            {
+                "id": "1412",
+                "name": "123 Comprou!",
+                "slug": "123comprou.com.br",
+                "logo": "https://media.pelando.com.br/Ng44OmS52LQEHmnht7Mlc5gEMY8=/0x160/filters:format(webp)/s/0196ffa5-7c8a-4cdc-927c-3614157225b8.jpeg",
+                "url": "https://www.123comprou.com.br/",
+                "linkingEnabled": false,
+                "pageEnabled": false,
+                "couponCount": 0
+            },
+            {
+                "id": "323",
+                "name": "4Gamers",
+                "slug": "4gamers.com.br",
+                "logo": "https://media.pelando.com.br/KTPsTN7U8EKsnlQwtL6BkxCarg0=/0x160/filters:format(webp)/s/default-merchant_fa8ef.png",
+                "url": "https://www.4gamers.com.br",
+                "linkingEnabled": false,
+                "pageEnabled": false,
+                "couponCount": 0
+            },
+            {
+                "id": "1175",
+                "name": "99 Food",
+                "slug": "food.99app.com",
+                "logo": "https://media.pelando.com.br/RkZqSRLwiM-kuF_bHjytQlhSIuo=/0x160/filters:format(webp)/s/1175_1.jpg",
+                "url": "https://removido-99app.com.br",
+                "linkingEnabled": false,
+                "pageEnabled": false,
+                "couponCount": 1
+            },
+            {
+                "id": "41d7b353-6c5f-4da6-82de-41964d5725b2",
+                "name": "Abc da Construção",
+                "slug": "abc-da-construcao",
+                "logo": "https://media.pelando.com.br/3XXTATJaipj6mnmUwarl8rKFqzA=/0x160/filters:format(webp)/s/0d59707a-e50c-4179-b3bc-45806f73619d.jpeg",
+                "url": "https://www.abcdaconstrucao.com.br/",
+                "linkingEnabled": true,
+                "pageEnabled": false,
+                "couponCount": 0
+            },
+            {
+                "id": "578",
+                "name": "Accor Hotels",
+                "slug": "accorhotels.com",
+                "logo": "https://media.pelando.com.br/rQ7fRBGBKGVly8pP0MkxsAhTb1E=/0x160/filters:format(webp)/s/0e4bd711-d5d9-4d36-92f8-5b60116db02e.png",
+                "url": "https://ibis.accor.com/",
+                "linkingEnabled": false,
+                "pageEnabled": false,
+                "couponCount": 0
+            },
+            {
+                "id": "928",
+                "name": "Acer Store",
+                "slug": "br-store.acer.com",
+                "logo": "https://media.pelando.com.br/GU-W2MTZqy5g-2S28UhYYkHuLTI=/0x160/filters:format(webp)/s/b71ba7e3-423e-412f-ac09-5637c16d8a21.png",
+                "url": "https://br-store.acer.com/",
+                "linkingEnabled": false,
+                "pageEnabled": false,
+                "couponCount": 1
+            },
+            {
+                "id": "b29734cc-7fd7-4155-a83e-b7eebf271dc8",
+                "name": "A.Dias",
+                "slug": "a.dias",
+                "logo": "https://media.pelando.com.br/Vl46r2ESunbiHx1utI1MdOXvJXU=/0x160/filters:format(webp)/s/0e5410a1-8d20-4d6f-b06e-3cc7ed7d1c35.png",
+                "url": "https://www.adias.com.br/",
+                "linkingEnabled": false,
+                "pageEnabled": false,
+                "couponCount": 0
+            },
+            {
+                "id": "447",
+                "name": "Adidas",
+                "slug": "adidas",
+                "logo": "https://media.pelando.com.br/ckx-Dc-xFAr3IWCn4vlTAFEElCg=/0x160/filters:format(webp)/s/d27967fa-bd21-4634-bf4e-e8b2cf996707.png",
+                "url": "http://www.adidas.com.br",
+                "linkingEnabled": false,
+                "pageEnabled": false,
+                "couponCount": 3
+            },
+            {
+                "id": "1479",
+                "name": "AgrotamA",
+                "slug": "agrotama.com.br",
+                "logo": "https://media.pelando.com.br/UWFp1DzqTViWTEtVq8UaR-qHF-4=/0x160/filters:format(webp)/s/1479_1.jpg",
+                "url": "https://www.agrotama.com.br/",
+                "linkingEnabled": false,
+                "pageEnabled": false,
+                "couponCount": 0
+            },
+            {
+                "id": "748",
+                "name": "Airbnb",
+                "slug": "airbnb.com.br",
+                "logo": "https://media.pelando.com.br/HEP-vsLOJsKBp_Db7L8F-_V4oOU=/0x160/filters:format(webp)/s/a5d93d7b-b3c6-4765-98e1-f5d6ccfb02e7.png",
+                "url": "http://www.airbnb.com",
+                "linkingEnabled": false,
+                "pageEnabled": false,
+                "couponCount": 0
+            },
+            {
+                "id": "976",
+                "name": "Algar Telecom",
+                "slug": "algartelecom.com.br",
+                "logo": "https://media.pelando.com.br/puz9LKjubW8VeJK7TDmdl--UwBk=/0x160/filters:format(webp)/s/976_1.jpg",
+                "url": "https://www.algartelecom.com.br/",
+                "linkingEnabled": false,
+                "pageEnabled": false,
+                "couponCount": 0
+            },
+            {
+                "id": "950",
+                "name": "AliExpress",
+                "slug": "aliexpress",
+                "logo": "https://media.pelando.com.br/h3uObLc4BP0_oRiI52LOJeHrcfY=/0x160/filters:format(webp)/s/vendor-containers-1779892687225.png",
+                "url": "https://pt.aliexpress.com/",
+                "linkingEnabled": true,
+                "pageEnabled": true,
+                "couponCount": 0
+            },
+            {
+                "id": "1150",
+                "name": "Allianz Parque Shop",
+                "slug": "allianzparqueshop.com.br",
+                "logo": "https://media.pelando.com.br/-e9_-NngIInpeDFPYa8m9UJY1V4=/0x160/filters:format(webp)/s/1150_1.png",
+                "url": "https://www.allianzparqueshop.com.br/",
+                "linkingEnabled": false,
+                "pageEnabled": false,
+                "couponCount": 0
+            },
+            {
+                "id": "1062",
+                "name": "Allianz Seguros",
+                "slug": "allianztravel.com.br",
+                "logo": "https://media.pelando.com.br/qq7h1UdMsRJEyidbmcFleZ1Pm7s=/0x160/filters:format(webp)/s/ef6b404f-c779-4326-b288-eda62d0c8f9e.png",
+                "url": "https://www.allianztravel.com.br/",
+                "linkingEnabled": false,
+                "pageEnabled": false,
+                "couponCount": 0
+            },
+            {
+                "id": "981",
+                "name": "Alura",
+                "slug": "alura.com.br",
+                "logo": "https://media.pelando.com.br/N1mA_s0jxPcv2cwfG4trxznyEOs=/0x160/filters:format(webp)/s/5c4415be-5d83-4236-8a7a-79f2b42bad31.webp",
+                "url": "https://www.alura.com.br/",
+                "linkingEnabled": true,
+                "pageEnabled": false,
+                "couponCount": 0
+            },
+            {
+                "id": "528",
+                "name": "Amaro",
+                "slug": "amaro",
+                "logo": "https://media.pelando.com.br/LM8-LqvUlKDdzu8pCDd2wjFjEvk=/0x160/filters:format(webp)/s/amaro-1776453284519.png",
+                "url": "https://amaro.com",
+                "linkingEnabled": false,
+                "pageEnabled": false,
+                "couponCount": 18
+            },
+            {
+                "id": "367",
+                "name": "Amazon",
+                "slug": "amazon",
+                "logo": "https://media.pelando.com.br/6ER8YajZ-ks_5jNrWGEpewyQkO4=/0x160/filters:format(webp)/s/amazon-1776453307003.png",
+                "url": "https://www.amazon.com.br/",
+                "linkingEnabled": true,
+                "pageEnabled": true,
+                "couponCount": 59
+            },
+            {
+                "id": "1569",
+                "name": "AMD",
+                "slug": "amd.com",
+                "logo": "https://media.pelando.com.br/bXPgpCjL25luHWup9B-kFf4olKc=/0x160/filters:format(webp)/s/27bbf397-a68a-445d-8b04-9f9d00de9151.png",
+                "url": "https://www.amd.com/",
+                "linkingEnabled": false,
+                "pageEnabled": false,
+                "couponCount": 0
+            },
+            {
+                "id": "970",
+                "name": "Ame Digital",
+                "slug": "amedigital.com",
+                "logo": "https://media.pelando.com.br/IerqRpEQhAg8F3RVdKNk0BakurU=/0x160/filters:format(webp)/s/5c88c813-fad5-42a9-a5f1-324b399ad64a.png",
+                "url": "https://www.amedigital.com/",
+                "linkingEnabled": false,
+                "pageEnabled": false,
+                "couponCount": 0
+            },
+            {
+                "id": "1620",
+                "name": "Amend Cosméticos",
+                "slug": "amend.com.br",
+                "logo": "https://media.pelando.com.br/goOg6B8I6h04IW_aOFjodVTAiW8=/0x160/filters:format(webp)/s/1620_1.jpg",
+                "url": "https://www.amend.com.br/",
+                "linkingEnabled": false,
+                "pageEnabled": false,
+                "couponCount": 0
+            }
+        ],
+        "pageInfo": {
+            "hasPreviousPage": true,
+            "hasNextPage": true,
+            "pageSize": 20,
+            "startCursor": "1412",
+            "endCursor": "1620"
+        }
+    },
+    "timestamp": "2026-08-10T00:05:03.832Z"
+}

@@ -1,0 +1,167 @@
+{
+    "data": {
+        "deals": [
+            {
+                "id": "6a2d2765-90cf-4f71-bf3c-15be716176ca",
+                "slug": "geforce-rtx-5070-oc-12gb-aa17",
+                "title": "[REEMBALADO] GeForce RTX 5070 OC 12GB",
+                "temperature": -229,
+                "commentCount": 11,
+                "date": "4 dias",
+                "price": 4129,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-06T13:09:02.467Z",
+                "firstApprovedAt": "2026-08-06T13:15:32.226Z",
+                "store": {
+                    "id": "403",
+                    "name": "Terabyte",
+                    "slug": "terabyteshop.com.br",
+                    "logo": "s/22f64059-a177-4f1c-a2a3-318b56089836.png",
+                    "linkingEnabled": true,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "dbe553a5-509e-422b-95f8-03f72906e71b",
+                    "nickname": "c4in",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/ngPL2mcz6Aaz0lkKTvOColNjnpA=/100x100/filters:format(webp)/u/ac8eda40-e184-4d3b-b17d-d5390b0b6321.png"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/fpanveQb0CS_Dp_8AnXXjI9bDmw=/0x100/filters:format(webp)/d/scp-l1cku-1786021690157.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/fpanveQb0CS_Dp_8AnXXjI9bDmw=/0x100/filters:format(webp)/d/scp-l1cku-1786021690157.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/Swh-Rz0MV-OZ-XniAEoFDf0x6Gk=/0x200/filters:format(webp)/d/scp-l1cku-1786021690157.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/7AIXmhYFxPIWNy-hB2I0PAx-0Pk=/0x300/filters:format(webp)/d/scp-l1cku-1786021690157.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.terabyteshop.com.br/produto/42170/placa-de-video-asus-dual-nvidia-geforce-rtx-5070-oc-12gb-gddr7-dlss-ray-tracing-90yv0m17-m0na00-open-box",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy50ZXJhYnl0ZXNob3AuY29tLmJyL3Byb2R1dG8vNDIxNzAvcGxhY2EtZGUtdmlkZW8tYXN1cy1kdWFsLW52aWRpYS1nZWZvcmNlLXJ0eC01MDcwLW9jLTEyZ2ItZ2RkcjctZGxzcy1yYXktdHJhY2luZy05MHl2MG0xNy1tMG5hMDAtb3Blbi1ib3giLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDIyODQ3NywiaWF0IjoxNzg2MzIwMjI4LCJleHAiOjE4MjA4ODAyMjh9.TXRG0wW2kHwV6tXunr0czThBqU7RaS-IeMY9Bn0NMnw",
+                "cashback": null,
+                "lastActivityAt": "12 h"
+            },
+            {
+                "id": "9e15a1c8-8612-450b-9a20-ba2b674543b3",
+                "slug": "notebook-gamer-rog-strix-g16-rtx-5070-i9-32gb-ram-1tb-7a09",
+                "title": "Notebook Gamer Rog Strix G16 RTX 5070 i9 32GB RAM 1TB",
+                "temperature": 1150,
+                "commentCount": 35,
+                "date": "14 dias",
+                "price": 11899,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-07-27T16:04:25.149Z",
+                "firstApprovedAt": "2026-07-27T16:05:13.018Z",
+                "store": {
+                    "id": "300",
+                    "name": "KaBuM!",
+                    "slug": "kabum",
+                    "logo": "/s/kabum-1776453511048.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "491574",
+                    "nickname": "gustavomartinsrs",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/a_B8N8TpOKsLsCEogg_A4qK9kHI=/100x100/filters:format(webp)/u/07a98291-cc8f-4bb4-bbc2-59e07f6ff9f6.jpeg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/j8vKJqDMBJTltBvaI2y8pQGPmxo=/0x100/filters:format(webp)/d/crawler-image-c9113ed4-aadd-4f9c-be9d-86af245426b4-1785168235134-1785168236753.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/j8vKJqDMBJTltBvaI2y8pQGPmxo=/0x100/filters:format(webp)/d/crawler-image-c9113ed4-aadd-4f9c-be9d-86af245426b4-1785168235134-1785168236753.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/qPO0XwoNbKWyATy4iPkF_Yc48-c=/0x200/filters:format(webp)/d/crawler-image-c9113ed4-aadd-4f9c-be9d-86af245426b4-1785168235134-1785168236753.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/CcGZojw69K51cNvjp8TKZon-wDA=/0x300/filters:format(webp)/d/crawler-image-c9113ed4-aadd-4f9c-be9d-86af245426b4-1785168235134-1785168236753.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.kabum.com.br/produto/885810/notebook-gamer-rog-strix-g16-g615jpr-nvidia-rtx-5070-intel-core-i9-14900hx-32gb-ram-1tb-ssd-windows-11-home-tela-16-240hz-led-cinza-s5001w",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5rYWJ1bS5jb20uYnIvcHJvZHV0by84ODU4MTAvbm90ZWJvb2stZ2FtZXItcm9nLXN0cml4LWcxNi1nNjE1anByLW52aWRpYS1ydHgtNTA3MC1pbnRlbC1jb3JlLWk5LTE0OTAwaHgtMzJnYi1yYW0tMXRiLXNzZC13aW5kb3dzLTExLWhvbWUtdGVsYS0xNi0yNDBoei1sZWQtY2luemEtczUwMDF3IiwiaXNUcmFja2VkIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODYzMjAyMjg0NzcsImlhdCI6MTc4NjMyMDIyOCwiZXhwIjoxODIwODgwMjI4fQ.Yf-kCAe00A7MUZAyfh-UMVOa2aks_unwmnzRt3WuQbo",
+                "cashback": null,
+                "lastActivityAt": "5 dias"
+            },
+            {
+                "id": "3d73fa99-8add-4e77-8f66-6e8145a0c0ca",
+                "slug": "placa-video-geforce-rtx-5070ti-16gb-gddr7-4433",
+                "title": "Placa V\u00eddeo GeForce RTX 5070TI 16GB GDDR7",
+                "temperature": -357,
+                "commentCount": 14,
+                "date": "7 dias",
+                "price": 7060.08,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-03T13:51:04.888Z",
+                "firstApprovedAt": "2026-08-03T13:51:13.198Z",
+                "store": {
+                    "id": "1730",
+                    "name": "Shopee",
+                    "slug": "shopee",
+                    "logo": "s/6eeef466-1b80-4df2-bb8e-92a2907ed562.png",
+                    "linkingEnabled": true,
+                    "pageEnabled": true
+                },
+                "author": {
+                    "id": "6f1132e6-4ff6-4803-8136-79191b5be906",
+                    "nickname": "araradaspromocoes4205",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/XhoM2hbbK6tPNLhTBzfgZ0Q4vb0=/100x100/filters:format(webp)/u/3fa8be2d-f8f1-4737-886a-ec8e990b1966.png"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/lDoavcrViAoozhcFc9gVolhbeQs=/0x100/filters:format(webp)/d/crawler-image-4e3dc36f-7b21-4270-87e6-8836053a6cb6-1785764905395-1785764907421.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/lDoavcrViAoozhcFc9gVolhbeQs=/0x100/filters:format(webp)/d/crawler-image-4e3dc36f-7b21-4270-87e6-8836053a6cb6-1785764905395-1785764907421.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/rzUlBM9HZwMZFrIVRQxJ2yIAx0U=/0x200/filters:format(webp)/d/crawler-image-4e3dc36f-7b21-4270-87e6-8836053a6cb6-1785764905395-1785764907421.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/7GAHlAr-s7P4eddcjLNevk3YFzo=/0x300/filters:format(webp)/d/crawler-image-4e3dc36f-7b21-4270-87e6-8836053a6cb6-1785764905395-1785764907421.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://shopee.com.br/opaanlp/344381236/43654318478?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMHJtu46N4YL1ETOwWAbpdPCpoOnQDXHQJ5OvtcN0M_eDbRA41r_846ydnLzTRf_samdRHEh2GSlumtjiKqmNpcGhlcnRleHTElwAAAAxowgUuo8lAaHG16V6WuZiM0A_I5OHRBMI80s9uuAwywSlhw2gy4ByfOL8oNCPiXKxWFa_2ThIVf8G5ou1WFZffArBxI-gJ9Tik_u_F4QnCPIaiKYC9-H4CqSjba-w6_AHlpy-w9OsVh6Xue1Fkyd-plV_s1mk9J_L6zS-DwzprDhnSZw2QyaowPqY8q0bRyAi8sts&lang=pt-BR&mmp_pid=an_18392510096&uls_trackid=569vqfj300hs&utm_campaign=id_AYyTVpP5V7R&utm_content=----&utm_medium=affiliates&utm_source=an_18392510096&utm_term=fbj42d9ekdz7",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3Nob3BlZS5jb20uYnIvb3BhYW5scC8zNDQzODEyMzYvNDM2NTQzMTg0Nzg_X19tb2JpbGVfXz0xJmV4cF9ncm91cD1yb2xsb3V0JmdhZHNfdF9zaWc9Z3FSalpHVnJ4SENGb210cHNURTBNalV4T25SemMxOXpaR3RmYTJWNW9tdDIwUUFCcEdGc1oyX1NBQUFBWktOa1pXdkFvbU4weEVBQUFBQU1ISnR1NDZONFlMMUVUT3dXQWJwZFBDcG9PblFEWEhRSjVPdnRjTjBNX2VEYlJBNDFyXzg0Nnlkbkx6VFJmX3NhbWRSSEVoMkdTbHVtdGppS3FtTnBjR2hsY25SbGVIVEVsd0FBQUF4b3dnVXVvOGxBYUhHMTZWNld1WmlNMEFfSTVPSFJCTUk4MHM5dXVBd3l3U2xodzJneTRCeWZPTDhvTkNQaVhLeFdGYV8yVGhJVmY4RzVvdTFXRlpmZkFyQnhJLWdKOVRpa191X0Y0UW5DUElhaUtZQzktSDRDcVNqYmEtdzZfQUhscHktdzlPc1ZoNlh1ZTFGa3lkLXBsVl9zMW1rOUpfTDZ6Uy1Ed3pwckRoblNadzJReWFvd1BxWThxMGJSeUFpOHN0cyZsYW5nPXB0LUJSJm1tcF9waWQ9YW5fMTgzOTI1MTAwOTYmdWxzX3RyYWNraWQ9NTY5dnFmajMwMGhzJnV0bV9jYW1wYWlnbj1pZF9BWXlUVnBQNVY3UiZ1dG1fY29udGVudD0tLS0tJnV0bV9tZWRpdW09YWZmaWxpYXRlcyZ1dG1fc291cmNlPWFuXzE4MzkyNTEwMDk2JnV0bV90ZXJtPWZiajQyZDlla2R6NyIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMjI4NDc4LCJpYXQiOjE3ODYzMjAyMjgsImV4cCI6MTgyMDg4MDIyOH0.0yRCDZoKNOqXZPRk6kbGc1y6sjBvkyvhS7RAjrbpSy4",
+                "cashback": null,
+                "lastActivityAt": "7 dias"
+            }
+        ],
+        "pageInfo": {
+            "page": 0,
+            "total": 3
+        }
+    },
+    "timestamp": "2026-08-10T00:03:48.478Z"
+}

@@ -1,0 +1,1045 @@
+{
+    "data": {
+        "deals": [
+            {
+                "id": "8122f7b8-baa4-4217-9f7c-06297b194de2",
+                "slug": "moonlighter-jogo-gratis-na-steam-a65b",
+                "title": "Moonlighter - Jogo Grátis na Steam",
+                "temperature": 7385,
+                "commentCount": 38,
+                "date": "5 dias",
+                "price": 0,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-05T18:02:59.199Z",
+                "firstApprovedAt": "2026-08-05T18:04:31.590Z",
+                "store": {
+                    "id": "290",
+                    "name": "Steam",
+                    "slug": "store.steampowered.com",
+                    "logo": "s/aa86ef33-a627-4c1f-aa51-8c122ede8f1c.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "52434",
+                    "nickname": "baratinho",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/MSA1na-5GSVz_Rf2WxDirOfsFSk=/100x100/filters:format(webp)/u/baratinho-perfil-1760643200284.png"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/UNKll2G9dRlBoK5xkAmU8_jkRjc=/0x100/filters:format(webp)/d/imagem2026-01-27185858045-1769551140029-1785952611199.webp",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/UNKll2G9dRlBoK5xkAmU8_jkRjc=/0x100/filters:format(webp)/d/imagem2026-01-27185858045-1769551140029-1785952611199.webp",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/C27ieYut_kOvQABqyGNMh9ShYtQ=/0x200/filters:format(webp)/d/imagem2026-01-27185858045-1769551140029-1785952611199.webp",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/XFN2vMIF_wkCxVg0VTS-Nj90XN8=/0x300/filters:format(webp)/d/imagem2026-01-27185858045-1769551140029-1785952611199.webp",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://store.steampowered.com/app/606150/Moonlighter/",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3N0b3JlLnN0ZWFtcG93ZXJlZC5jb20vYXBwLzYwNjE1MC9Nb29ubGlnaHRlci8iLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDM0NDU1NSwiaWF0IjoxNzg2MzIwMzQ0LCJleHAiOjE4MjA4ODAzNDR9.EVJk5fQnHb43SQbqvpjeag2yxBhnXQolAysrHMwbPLo",
+                "cashback": null,
+                "lastActivityAt": "2 dias"
+            },
+            {
+                "id": "029142f6-17c5-45e8-af70-e71bb7d307f7",
+                "slug": "bug-pre-venda-jogo-grim-trials-gratis-xbox-30f5",
+                "title": "(BUG / Pré-venda) Jogo Grim Trials Grátis - Xbox e PC",
+                "temperature": 5868,
+                "commentCount": 56,
+                "date": "3 dias",
+                "price": 0,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-07T16:36:18.634Z",
+                "firstApprovedAt": "2026-08-07T16:37:12.832Z",
+                "store": {
+                    "id": "526",
+                    "name": "Xbox Live",
+                    "slug": "xbox.com",
+                    "logo": "s/526_1.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "686889",
+                    "nickname": "guiprata",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/H1oPhS5y8YJ_1etFDaukKWZTjUA=/100x100/filters:format(webp)/u/73086c9d-7ee6-4d01-b790-632ab2a5ec9b.jpeg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/mYxLaBjTrit4obsIQaTRwVzZ4h0=/0x100/filters:format(webp)/d/imagem2026-08-07134049942-1786120850195.png",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/mYxLaBjTrit4obsIQaTRwVzZ4h0=/0x100/filters:format(webp)/d/imagem2026-08-07134049942-1786120850195.png",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/EpN_keAC_c0KggpCYvot3aCvF4o=/0x200/filters:format(webp)/d/imagem2026-08-07134049942-1786120850195.png",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/SqEw92nVwaVO3CXEkjggVXzK0ZM=/0x300/filters:format(webp)/d/imagem2026-08-07134049942-1786120850195.png",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.xbox.com/pt-BR/games/store/grim-trials/9pmwr0f45mgw",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy54Ym94LmNvbS9wdC1CUi9nYW1lcy9zdG9yZS9ncmltLXRyaWFscy85cG13cjBmNDVtZ3ciLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDM0NDU1NSwiaWF0IjoxNzg2MzIwMzQ0LCJleHAiOjE4MjA4ODAzNDR9.1vRgQ7iWrtu6eRKo0atboBq9t_YDMFwcJCros0TV-ZQ",
+                "cashback": null,
+                "lastActivityAt": "20 h"
+            },
+            {
+                "id": "dc76829b-b5f0-4b73-b676-21134fa4b8c4",
+                "slug": "estudantes-plano-gemini-ai-pro-google-5tb-armazenamento-55e5",
+                "title": "[Estudantes] Plano Gemini AI Pro - Google 5TB Armazenamento",
+                "temperature": 5694,
+                "commentCount": 246,
+                "date": "11 dias",
+                "price": 23.99,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-07-30T12:14:59.619Z",
+                "firstApprovedAt": "2026-07-30T12:17:34.360Z",
+                "store": {
+                    "id": "404",
+                    "name": "Google",
+                    "slug": "google.com",
+                    "logo": "s/681a3051-71dc-4a98-b729-5a0d108d60a7.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "0bf045cf-f8e4-4dfb-ada6-e79cc91250ca",
+                    "nickname": "newtinho",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/z7ErSvxOqi17aj1xsnHwGUFF2yU=/100x100/filters:format(webp)/u/007280dc-feab-4d4b-8e62-97c69b7f5fc3.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/NpIfCQxHAXXaghGZ8DtU_giclsM=/0x100/filters:format(webp)/d/google-ai-1785413693034.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/NpIfCQxHAXXaghGZ8DtU_giclsM=/0x100/filters:format(webp)/d/google-ai-1785413693034.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/tDRECCJI30G6GRCgfk1ynBs3P44=/0x200/filters:format(webp)/d/google-ai-1785413693034.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/UGJqXkVuCBfwBRwoUx7NWsmXWEU=/0x300/filters:format(webp)/d/google-ai-1785413693034.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL29uZS5nb29nbGUuY29tL2FpP2cxX2xhbmRpbmdfcGFnZT03NSIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg1NDI4OTc2MDMxLCJpYXQiOjE3ODU0Mjg5NzYsImV4cCI6MTgxOTk4ODk3Nn0.-8_WR2DRvnznSnGBvnG_0PyZpQNAVd3dJRZQHplb-OY",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2RwbC5wZWxhbmRvLmNvbS5ici9yL2V5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUoxY213aU9pSm9kSFJ3Y3pvdkwyOXVaUzVuYjI5bmJHVXVZMjl0TDJGcFAyY3hYMnhoYm1ScGJtZGZjR0ZuWlQwM05TSXNJbWx6VkhKaFkydGxaQ0k2ZEhKMVpTd2lkR2x0WlhOMFlXMXdJam94TnpnMU5ESTRPVGMyTURNeExDSnBZWFFpT2pFM09EVTBNamc1TnpZc0ltVjRjQ0k2TVRneE9UazRPRGszTm4wLi04X1dSMkRSdm56blNuR0J2bkdfMFB5WnBRTkFWZDNkSlJaUUhwbGItT1kiLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDM0NDU1NSwiaWF0IjoxNzg2MzIwMzQ0LCJleHAiOjE4MjA4ODAzNDR9.nSZn8PIFF-u9W7hAuTczwV7ZCKAP-4egW2O27WWb4TY",
+                "cashback": null,
+                "lastActivityAt": "42 min"
+            },
+            {
+                "id": "43053b4f-e271-4e3a-be60-b73c740bd1fd",
+                "slug": "ghost-recon-future-soldier-jogo-gratis-para-pc-b7c3",
+                "title": "Jogo Tom Clancy's Ghost Recon: Future Soldier Grátis para PC",
+                "temperature": 5384,
+                "commentCount": 68,
+                "date": "4 dias",
+                "price": 0,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-06T15:35:06.956Z",
+                "firstApprovedAt": "2026-08-06T15:35:12.868Z",
+                "store": {
+                    "id": "535",
+                    "name": "Uplay Ubisoft",
+                    "slug": "club.ubisoft.com",
+                    "logo": "s/535_1.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "52434",
+                    "nickname": "baratinho",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/MSA1na-5GSVz_Rf2WxDirOfsFSk=/100x100/filters:format(webp)/u/baratinho-perfil-1760643200284.png"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/9guMr7291E_e3LkkI7xz1FnLtQY=/0x100/filters:format(webp)/d/tom-clancys-ghost-recon-future-soldier-button-1641281459594-1786030766481.webp",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/9guMr7291E_e3LkkI7xz1FnLtQY=/0x100/filters:format(webp)/d/tom-clancys-ghost-recon-future-soldier-button-1641281459594-1786030766481.webp",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/dqOSpqWMHyzbWfOPcjBdUybluY4=/0x200/filters:format(webp)/d/tom-clancys-ghost-recon-future-soldier-button-1641281459594-1786030766481.webp",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/2aDqj48AL9oTQFYpG6Jto-ZZoRM=/0x300/filters:format(webp)/d/tom-clancys-ghost-recon-future-soldier-button-1641281459594-1786030766481.webp",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.ubisoft.com/pt-br/games/tom-clancys-ghost-recon-future-soldier",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy51Ymlzb2Z0LmNvbS9wdC1ici9nYW1lcy90b20tY2xhbmN5cy1naG9zdC1yZWNvbi1mdXR1cmUtc29sZGllciIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMzQ0NTU2LCJpYXQiOjE3ODYzMjAzNDQsImV4cCI6MTgyMDg4MDM0NH0.yeoKvh95pZNpr9zkNjJy6QDgXyOpJ0fRkogapdDCXYk",
+                "cashback": null,
+                "lastActivityAt": "3 dias"
+            },
+            {
+                "id": "e6579c29-197a-4489-be72-17b7ccb10343",
+                "slug": "vivo-controle-45gb-2cb0",
+                "title": "Vivo Controle 45GB",
+                "temperature": 5046,
+                "commentCount": 131,
+                "date": "3 dias",
+                "price": 35,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-07T14:04:03.715Z",
+                "firstApprovedAt": "2026-08-07T14:05:55.832Z",
+                "store": {
+                    "id": "783",
+                    "name": "Loja Vivo",
+                    "slug": "vivo4g.com.br",
+                    "logo": "s/29fe73da-85b1-42c7-a85c-5517e584d3ff.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "f9d0abe6-6897-4afa-8d8c-05910ee1ba7b",
+                    "nickname": "carlos_vicente",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/2uSZN6GdqdEXMbV22Eo3G_RfJXo=/100x100/filters:format(webp)/u/d4188159-a5f4-423a-9cab-813f19f2e0eb.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/Ad88EWtxLGf6UTSyEGzgJ2YxTT4=/0x100/filters:format(webp)/d/vivo-45gb-1786111418503.jpeg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/Ad88EWtxLGf6UTSyEGzgJ2YxTT4=/0x100/filters:format(webp)/d/vivo-45gb-1786111418503.jpeg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/XV29xCkreTRdne-Zy5VH1lEakVY=/0x200/filters:format(webp)/d/vivo-45gb-1786111418503.jpeg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/YHMdxYcrhcFpRDaPA-yioEIlYy4=/0x300/filters:format(webp)/d/vivo-45gb-1786111418503.jpeg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://lojaonline.vivo.com.br/checkout-express/selecao?site=vivo&offer=PKT45GBPL1",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2xvamFvbmxpbmUudml2by5jb20uYnIvY2hlY2tvdXQtZXhwcmVzcy9zZWxlY2FvP3NpdGU9dml2byZvZmZlcj1QS1Q0NUdCUEwxIiwiaXNUcmFja2VkIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODYzMjAzNDQ1NTYsImlhdCI6MTc4NjMyMDM0NCwiZXhwIjoxODIwODgwMzQ0fQ.zJMQAlisVYbH16i-vMIgsQYq3DNkDkQQEUh8yIH-_0E",
+                "cashback": null,
+                "lastActivityAt": "9 h"
+            },
+            {
+                "id": "95d437e4-22be-4acf-bd90-8c3c3eaa5bfa",
+                "slug": "selecionados-ate-30-dias-gratis-para-experimentar-a-netflix-7847",
+                "title": "[NOVOS CLIENTES] ATÉ 30 DIAS GRÁTIS PARA EXPERIMENTAR A NETFLIX",
+                "temperature": 4963,
+                "commentCount": 96,
+                "date": "4 dias",
+                "price": null,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-06T13:58:18.001Z",
+                "firstApprovedAt": "2026-08-06T13:59:13.102Z",
+                "store": {
+                    "id": "577",
+                    "name": "Netflix",
+                    "slug": "netflix.com",
+                    "logo": "s/7c3949dd-0d2c-4099-b00e-25fbf5ed547a.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "313518",
+                    "nickname": "jose_arlindo_aguiar",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/gEw33LbsyqMPNiFvpI0R8dN0dPI=/100x100/filters:format(webp)/u/4d6076f1-a1a3-4682-a98c-a766b29f1f27.png"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/ev0qG1y99mT8rEyVyZCJQgsu9bg=/0x100/filters:format(webp)/d/crawler-image-e6b16ce9-2c9d-4435-acc8-86b9e197ee36-1786026483560-1786026485859.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/ev0qG1y99mT8rEyVyZCJQgsu9bg=/0x100/filters:format(webp)/d/crawler-image-e6b16ce9-2c9d-4435-acc8-86b9e197ee36-1786026483560-1786026485859.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/QS6lk80xmZFWizYrRYxFfJVSrwc=/0x200/filters:format(webp)/d/crawler-image-e6b16ce9-2c9d-4435-acc8-86b9e197ee36-1786026483560-1786026485859.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/JFpNn2kU1_U4xObmtWWHDgLC_cE=/0x300/filters:format(webp)/d/crawler-image-e6b16ce9-2c9d-4435-acc8-86b9e197ee36-1786026483560-1786026485859.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.netflix.com/br/title/83035795",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5uZXRmbGl4LmNvbS9ici90aXRsZS84MzAzNTc5NSIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMzQ0NTU3LCJpYXQiOjE3ODYzMjAzNDQsImV4cCI6MTgyMDg4MDM0NH0.bek4cb9FBKGayyVxqbC5w0MM3gdVnz_5DvC3BRhm074",
+                "cashback": null,
+                "lastActivityAt": "3 dias"
+            },
+            {
+                "id": "ecb87482-7ca3-468f-8401-29319768b808",
+                "slug": "1-ano-de-sams-club-por-rdollar1890-212c",
+                "title": "1 ano de Sam's Club por R$18,90",
+                "temperature": 4840,
+                "commentCount": 69,
+                "date": "2 dias",
+                "price": 18.9,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-08T01:35:35.795Z",
+                "firstApprovedAt": "2026-08-08T01:36:12.896Z",
+                "store": {
+                    "id": "637",
+                    "name": "Sam's Club",
+                    "slug": "samsclub.com.br",
+                    "logo": "s/637_1.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "313518",
+                    "nickname": "jose_arlindo_aguiar",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/gEw33LbsyqMPNiFvpI0R8dN0dPI=/100x100/filters:format(webp)/u/4d6076f1-a1a3-4682-a98c-a766b29f1f27.png"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/2tNrqVFUgDdd33qSmcU0efBDIMs=/0x100/filters:format(webp)/d/imagecropper1786153049005-1786153057542.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/2tNrqVFUgDdd33qSmcU0efBDIMs=/0x100/filters:format(webp)/d/imagecropper1786153049005-1786153057542.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/CzsqaAWwfmNKHzigxR9PfM1X054=/0x200/filters:format(webp)/d/imagecropper1786153049005-1786153057542.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/QEkndiwJmco_w2QuD44zF0fhgvc=/0x300/filters:format(webp)/d/imagecropper1786153049005-1786153057542.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://sejasocio.samsclub.com.br/index.php/promo-samsclub/",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3NlamFzb2Npby5zYW1zY2x1Yi5jb20uYnIvaW5kZXgucGhwL3Byb21vLXNhbXNjbHViLyIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMzQ0NTU3LCJpYXQiOjE3ODYzMjAzNDQsImV4cCI6MTgyMDg4MDM0NH0.XrujCbYCvakdnNAhhojVDj3MSRWx19GY6ymp3KWQj6c",
+                "cashback": null,
+                "lastActivityAt": "6 h"
+            },
+            {
+                "id": "2169cd5a-dcfc-4434-ab31-a1e880d2bf54",
+                "slug": "jogo-dlcs-resident-evil-4-gold-edition-na-steam-pc-ea9d",
+                "title": "[Jogo + DLCs] Resident Evil 4: Gold Edition na Steam - PC",
+                "temperature": 4652,
+                "commentCount": 33,
+                "date": "15 dias",
+                "price": 53.83,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-07-26T23:29:32.079Z",
+                "firstApprovedAt": "2026-07-26T23:30:13.013Z",
+                "store": {
+                    "id": "857",
+                    "name": "Instant Gaming",
+                    "slug": "instant-gaming.com",
+                    "logo": "/s/857_1.jpg",
+                    "linkingEnabled": true,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "52434",
+                    "nickname": "baratinho",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/MSA1na-5GSVz_Rf2WxDirOfsFSk=/100x100/filters:format(webp)/u/baratinho-perfil-1760643200284.png"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/8Zs61-IL1D6gzpS50_b2ZVGkIIw=/0x100/filters:format(webp)/d/gold-1785108922113.png",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/8Zs61-IL1D6gzpS50_b2ZVGkIIw=/0x100/filters:format(webp)/d/gold-1785108922113.png",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/Z0C86hUMfo42mVsjQiBLoWYjlfs=/0x200/filters:format(webp)/d/gold-1785108922113.png",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/REFWF4aND7hk0f89mE6G1rLEfl8=/0x300/filters:format(webp)/d/gold-1785108922113.png",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.instant-gaming.com/br/20494-comprar-resident-evil-4-gold-edition-pc-steam/?igr=gameplayscassi",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5pbnN0YW50LWdhbWluZy5jb20vYnIvMjA0OTQtY29tcHJhci1yZXNpZGVudC1ldmlsLTQtZ29sZC1lZGl0aW9uLXBjLXN0ZWFtLz9pZ3I9Z2FtZXBsYXlzY2Fzc2kiLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDM0NDU1NywiaWF0IjoxNzg2MzIwMzQ0LCJleHAiOjE4MjA4ODAzNDR9.u0iCM_4DdSJdb6kjRZJAmitz_BBtAoQuQPmZ3fvg9S8",
+                "cashback": null,
+                "lastActivityAt": "5 dias"
+            },
+            {
+                "id": "408d9ae3-aee8-4ff0-a604-a4817628a488",
+                "slug": "ciberseguranca-do-zero-a-pratica-curso-gratis-com-certificado-9bc0",
+                "title": "Cibersegurança do Zero à Prática - Curso Grátis com Certificado",
+                "temperature": 4491,
+                "commentCount": 37,
+                "date": "7 dias",
+                "price": 0,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-03T00:39:58.940Z",
+                "firstApprovedAt": "2026-08-03T00:40:13.047Z",
+                "store": {
+                    "id": "1118",
+                    "name": "Santander",
+                    "slug": "santander.com.br",
+                    "logo": "s/1118_1.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "52434",
+                    "nickname": "baratinho",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/MSA1na-5GSVz_Rf2WxDirOfsFSk=/100x100/filters:format(webp)/u/baratinho-perfil-1760643200284.png"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/dNNCImIogi8Tupcs6JgcFf0faRU=/0x100/filters:format(webp)/d/ciber-1785717962732.png",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/dNNCImIogi8Tupcs6JgcFf0faRU=/0x100/filters:format(webp)/d/ciber-1785717962732.png",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/gicVquHpvoBSX5JAuEcMe2CtR70=/0x200/filters:format(webp)/d/ciber-1785717962732.png",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/9ERIk5OvVU4_2SsPFQXijnhrrQA=/0x300/filters:format(webp)/d/ciber-1785717962732.png",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://app.santanderopenacademy.com/pt-BR/program/ciberseguranca-do-zero-a-pratica",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FwcC5zYW50YW5kZXJvcGVuYWNhZGVteS5jb20vcHQtQlIvcHJvZ3JhbS9jaWJlcnNlZ3VyYW5jYS1kby16ZXJvLWEtcHJhdGljYSIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMzQ0NTU4LCJpYXQiOjE3ODYzMjAzNDQsImV4cCI6MTgyMDg4MDM0NH0.QF28_VIZL-PhqwGnZsogQb2zP7zs9sb0t9k_92S1FO8",
+                "cashback": null,
+                "lastActivityAt": "5 dias"
+            },
+            {
+                "id": "0e19da49-81bd-41c1-ac09-78adebbc6c98",
+                "slug": "forza-horizon-6-lamborghini-urus-halo-master-chief-117-edition-gratis-3a79",
+                "title": "Forza Horizon 6 - Lamborghini Urus HALO Master Chief 117 Edition Grátis",
+                "temperature": 4397,
+                "commentCount": 25,
+                "date": "8 dias",
+                "price": 0,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-02T14:58:18.351Z",
+                "firstApprovedAt": "2026-08-02T14:59:12.955Z",
+                "store": {
+                    "id": "290",
+                    "name": "Steam",
+                    "slug": "store.steampowered.com",
+                    "logo": "s/aa86ef33-a627-4c1f-aa51-8c122ede8f1c.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "52434",
+                    "nickname": "baratinho",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/MSA1na-5GSVz_Rf2WxDirOfsFSk=/100x100/filters:format(webp)/u/baratinho-perfil-1760643200284.png"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/DDEeb9EPGM2x4u6FMR8RrZAlKfU=/0x100/filters:format(webp)/d/11793961-1785507777505.png",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/DDEeb9EPGM2x4u6FMR8RrZAlKfU=/0x100/filters:format(webp)/d/11793961-1785507777505.png",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/ehrO7XTPAlQ2JZH7SbOdRUymgPE=/0x200/filters:format(webp)/d/11793961-1785507777505.png",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/uZ7hLrDEX7BeNEhp91oarSMZBHU=/0x300/filters:format(webp)/d/11793961-1785507777505.png",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://store.steampowered.com/app/2483190/Forza_Horizon_6/",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3N0b3JlLnN0ZWFtcG93ZXJlZC5jb20vYXBwLzI0ODMxOTAvRm9yemFfSG9yaXpvbl82LyIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMzQ0NTU4LCJpYXQiOjE3ODYzMjAzNDQsImV4cCI6MTgyMDg4MDM0NH0.jPAmmja8MiduiFwMDpw9T1oxHQ__POUpxroXQ8b_0wU",
+                "cashback": null,
+                "lastActivityAt": "4 dias"
+            },
+            {
+                "id": "7c3df682-8508-4881-ad6d-d085e281128e",
+                "slug": "steam-sleeping-dogs-definitive-edition-jogo-dlcs-pc-ee58",
+                "title": "[Steam] Sleeping Dogs: Definitive Edition (Jogo + DLCs) - PC",
+                "temperature": 4045,
+                "commentCount": 13,
+                "date": "6 dias",
+                "price": 8.39,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-04T23:33:54.206Z",
+                "firstApprovedAt": "2026-08-04T23:34:13.100Z",
+                "store": {
+                    "id": "290",
+                    "name": "Steam",
+                    "slug": "store.steampowered.com",
+                    "logo": "s/aa86ef33-a627-4c1f-aa51-8c122ede8f1c.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "52434",
+                    "nickname": "baratinho",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/MSA1na-5GSVz_Rf2WxDirOfsFSk=/100x100/filters:format(webp)/u/baratinho-perfil-1760643200284.png"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/iszEUi_7dClgjHBbiqJPoinn5Is=/0x100/filters:format(webp)/d/sleeping-1785886545531.png",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/iszEUi_7dClgjHBbiqJPoinn5Is=/0x100/filters:format(webp)/d/sleeping-1785886545531.png",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/2Ad4P23-V_aU1ak1tEwvnuEex-4=/0x200/filters:format(webp)/d/sleeping-1785886545531.png",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/iEW5x62ANgzgOrpzBs3MoVU5JOg=/0x300/filters:format(webp)/d/sleeping-1785886545531.png",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://store.steampowered.com/agecheck/app/307690/",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3N0b3JlLnN0ZWFtcG93ZXJlZC5jb20vYWdlY2hlY2svYXBwLzMwNzY5MC8iLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDM0NDU1OSwiaWF0IjoxNzg2MzIwMzQ0LCJleHAiOjE4MjA4ODAzNDR9.Ztv6PWv02ld-g2UY9_gCAeygoxqPHKj5bRr-5xwbK6U",
+                "cashback": null,
+                "lastActivityAt": "22 h"
+            },
+            {
+                "id": "61ac1755-f556-4ea7-ad28-52f271c5fbc8",
+                "slug": "bad-michel-jackson-disco-de-vinil-dce8",
+                "title": "Bad [Michel Jackson - Disco de Vinil]",
+                "temperature": 4042,
+                "commentCount": 30,
+                "date": "5 dias",
+                "price": 270,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-05T00:15:12.241Z",
+                "firstApprovedAt": "2026-08-05T00:18:20.391Z",
+                "store": {
+                    "id": "367",
+                    "name": "Amazon",
+                    "slug": "amazon",
+                    "logo": "/s/amazon-1776453307003.png",
+                    "linkingEnabled": true,
+                    "pageEnabled": true
+                },
+                "author": {
+                    "id": "458191",
+                    "nickname": "srl_",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/UQ_KRnGg3MnG40R5gxiDofgOebY=/100x100/filters:format(webp)/u/458191_3.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/Avcsj0mx48V8DmKue5kOsZQd_4c=/0x100/filters:format(webp)/d/crawler-image-edc67921-d792-4010-ad64-4ec633293519-1785888802282-1785888803351.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/Avcsj0mx48V8DmKue5kOsZQd_4c=/0x100/filters:format(webp)/d/crawler-image-edc67921-d792-4010-ad64-4ec633293519-1785888802282-1785888803351.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/XRQMcw6gx6m62seZdB-dpl17OHo=/0x200/filters:format(webp)/d/crawler-image-edc67921-d792-4010-ad64-4ec633293519-1785888802282-1785888803351.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/dETnvy0T9uc0IoIT26BJdRj5PL8=/0x300/filters:format(webp)/d/crawler-image-edc67921-d792-4010-ad64-4ec633293519-1785888802282-1785888803351.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.amazon.com.br/gp/aw/d/B0851MXSZQ/ref=tmm_fbs_vnl_title_0?",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tLmJyL2dwL2F3L2QvQjA4NTFNWFNaUS9yZWY9dG1tX2Zic192bmxfdGl0bGVfMD8iLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDM0NDU1OSwiaWF0IjoxNzg2MzIwMzQ0LCJleHAiOjE4MjA4ODAzNDR9.OWKAn1HO8KGRLdH1a5h1pMIVEbxT0j9b7unx4wpCT6g",
+                "cashback": null,
+                "lastActivityAt": "4 dias"
+            },
+            {
+                "id": "e3737cc6-c1b4-49fc-8b60-bb20ecf9e9e6",
+                "slug": "app-ganhe-1-mes-gratis-shopee-vip-019d",
+                "title": "(APP) Ganhe 1 Mês Grátis Shopee VIP",
+                "temperature": 3966,
+                "commentCount": 52,
+                "date": "3 dias",
+                "price": 0,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-07T18:30:28.880Z",
+                "firstApprovedAt": "2026-08-07T18:31:12.904Z",
+                "store": {
+                    "id": "1730",
+                    "name": "Shopee",
+                    "slug": "shopee",
+                    "logo": "s/6eeef466-1b80-4df2-bb8e-92a2907ed562.png",
+                    "linkingEnabled": true,
+                    "pageEnabled": true
+                },
+                "author": {
+                    "id": "686889",
+                    "nickname": "guiprata",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/H1oPhS5y8YJ_1etFDaukKWZTjUA=/100x100/filters:format(webp)/u/73086c9d-7ee6-4d01-b790-632ab2a5ec9b.jpeg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/nhgxjcaCORjl4t5QxU7ULFi7_so=/0x100/filters:format(webp)/d/imagem2026-08-07153217707-1786127537664.png",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/nhgxjcaCORjl4t5QxU7ULFi7_so=/0x100/filters:format(webp)/d/imagem2026-08-07153217707-1786127537664.png",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/Gnn5GHUysUnfL7PE9bw7BKh2V48=/0x200/filters:format(webp)/d/imagem2026-08-07153217707-1786127537664.png",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/vi1zJhuFv6FBZ2Ejk5jfQS4pcPM=/0x300/filters:format(webp)/d/imagem2026-08-07153217707-1786127537664.png",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://shopee.com.br/shopeevip",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3Nob3BlZS5jb20uYnIvc2hvcGVldmlwIiwiaXNUcmFja2VkIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODYzMjAzNDQ1NTksImlhdCI6MTc4NjMyMDM0NCwiZXhwIjoxODIwODgwMzQ0fQ.5yjaq2KNjxy08J4h8dIt94c0i-c3sd-bhBoNEIUYsHM",
+                "cashback": null,
+                "lastActivityAt": "9 h"
+            },
+            {
+                "id": "96f9587e-77b6-41cc-9e92-a3fcbb3aa94a",
+                "slug": "resgate-gratis-versao-pc-de-jogos-ubisoft-que-voce-tem-no-xbox-ef78",
+                "title": "Resgate Grátis versão PC de Jogos Ubisoft que você tem no Xbox",
+                "temperature": 3879,
+                "commentCount": 43,
+                "date": "12 dias",
+                "price": 0,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-07-29T22:50:27.721Z",
+                "firstApprovedAt": "2026-07-29T22:51:13.164Z",
+                "store": {
+                    "id": "535",
+                    "name": "Uplay Ubisoft",
+                    "slug": "club.ubisoft.com",
+                    "logo": "s/535_1.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "52434",
+                    "nickname": "baratinho",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/MSA1na-5GSVz_Rf2WxDirOfsFSk=/100x100/filters:format(webp)/u/baratinho-perfil-1760643200284.png"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/NC54BQnvsuJShO7xuDScUuWlu90=/0x100/filters:format(webp)/d/ubixbox-1785355193410.png",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/NC54BQnvsuJShO7xuDScUuWlu90=/0x100/filters:format(webp)/d/ubixbox-1785355193410.png",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/MkYRSYrsbpBgPva1qEq1u2EhzCo=/0x200/filters:format(webp)/d/ubixbox-1785355193410.png",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/ytMg_bWt_nEb00r01xDmaS1s7xM=/0x300/filters:format(webp)/d/ubixbox-1785355193410.png",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.ubisoft.com/pt-br/ubisoft-connect",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy51Ymlzb2Z0LmNvbS9wdC1ici91Ymlzb2Z0LWNvbm5lY3QiLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDM0NDU2MCwiaWF0IjoxNzg2MzIwMzQ0LCJleHAiOjE4MjA4ODAzNDR9.dz-0tcRBw4vhOx1HH0KTmiXoNAwaXwTWElmQvW-8DZ0",
+                "cashback": null,
+                "lastActivityAt": "9 dias"
+            },
+            {
+                "id": "e1850db1-78c8-40ec-93a9-8381f4c12aa1",
+                "slug": "gta-online-ganhe-gtadollar1000000-gratis-ao-jogar-o-game-0914",
+                "title": "GTA Online - Ganhe GTA$1.000.000 Grátis ao Jogar o Game",
+                "temperature": 3788,
+                "commentCount": 27,
+                "date": "4 dias",
+                "price": 0,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-06T23:02:57.295Z",
+                "firstApprovedAt": "2026-08-06T23:04:09.049Z",
+                "author": {
+                    "id": "52434",
+                    "nickname": "baratinho",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/MSA1na-5GSVz_Rf2WxDirOfsFSk=/100x100/filters:format(webp)/u/baratinho-perfil-1760643200284.png"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/qTYLOj0i1Y-S7aMvwvwSI2v44T8=/0x100/filters:format(webp)/d/myn2etbkfct26v9mjnzi4ass-1773673450159-1786036556868.webp",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/qTYLOj0i1Y-S7aMvwvwSI2v44T8=/0x100/filters:format(webp)/d/myn2etbkfct26v9mjnzi4ass-1773673450159-1786036556868.webp",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/HUcu47msugEyWA2p_Q-IQnxWyi8=/0x200/filters:format(webp)/d/myn2etbkfct26v9mjnzi4ass-1773673450159-1786036556868.webp",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/4_t4kA7c73gB4V5TQlh8zNBGDfw=/0x300/filters:format(webp)/d/myn2etbkfct26v9mjnzi4ass-1773673450159-1786036556868.webp",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.rockstargames.com/br/gta-online",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5yb2Nrc3RhcmdhbWVzLmNvbS9ici9ndGEtb25saW5lIiwiaXNUcmFja2VkIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODYzMjAzNDQ1NjAsImlhdCI6MTc4NjMyMDM0NCwiZXhwIjoxODIwODgwMzQ0fQ.elFv4Sn_hTlalQZpe-7-SO2ozKL2K7vDQdeJOwE42sA",
+                "cashback": null,
+                "lastActivityAt": "23 h"
+            },
+            {
+                "id": "69f70531-4e1c-466e-9323-d7482a4a1aff",
+                "slug": "monitor-de-audio-r1280t-42w-rms-edifier-madeira-35cb",
+                "title": "Monitor de Áudio R1280T  42W RMS EDIFIER - Madeira",
+                "temperature": 3740,
+                "commentCount": 22,
+                "date": "15 dias",
+                "price": 733,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-07-26T11:18:12.813Z",
+                "firstApprovedAt": "2026-07-26T11:22:05.449Z",
+                "store": {
+                    "id": "296",
+                    "name": "Fast Shop",
+                    "slug": "fast-shop",
+                    "logo": "s/13f743e8-5b77-478f-93b2-1be7c275a324.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "503671",
+                    "nickname": "ericgilmour",
+                    "topCreator": false,
+                    "isCreator": false
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/16QjnOC7doBD74x3mk6uu7B0_7g=/0x100/filters:format(webp)/d/scp-8lrr5-1785064659182.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/16QjnOC7doBD74x3mk6uu7B0_7g=/0x100/filters:format(webp)/d/scp-8lrr5-1785064659182.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/PadNTZ1dJPICPfyxJMpv05HkZSg=/0x200/filters:format(webp)/d/scp-8lrr5-1785064659182.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/waNWGsMln024OAXNMnOnTkYJTN8=/0x300/filters:format(webp)/d/scp-8lrr5-1785064659182.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://site.fastshop.com.br/monitor-de-audio-r1280t--42w-rms-edifier---madeira-110246-116271/p",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3NpdGUuZmFzdHNob3AuY29tLmJyL21vbml0b3ItZGUtYXVkaW8tcjEyODB0LS00Mnctcm1zLWVkaWZpZXItLS1tYWRlaXJhLTExMDI0Ni0xMTYyNzEvcCIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMzQ0NTYwLCJpYXQiOjE3ODYzMjAzNDQsImV4cCI6MTgyMDg4MDM0NH0.ut_h8fj6uHuAQQZ37GIaEv-XY-Bgl0oNUpJJ1rPq_lo",
+                "cashback": null,
+                "lastActivityAt": "10 dias"
+            },
+            {
+                "id": "ffb8d907-7f4e-4d21-81df-30fe82d8d855",
+                "slug": "resgate-1-mes-gratuito-de-apple-tv-ea-sports-fc-0e5c",
+                "title": "Ganhe 1 Mês Grátis de assinatura Apple TV+ - Filmes & Séries",
+                "temperature": 3660,
+                "commentCount": 32,
+                "date": "14 dias",
+                "price": null,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-07-27T05:30:17.589Z",
+                "firstApprovedAt": "2026-07-27T05:31:53.209Z",
+                "store": {
+                    "id": "557",
+                    "name": "Apple",
+                    "slug": "apple.com",
+                    "logo": "s/557_1.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "359537",
+                    "nickname": "absolute_cinema",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/W4ae4ztUDJT4j2iZSTV8yu9MyhQ=/100x100/filters:format(webp)/u/d6772a70-e36c-4592-819f-4f4e56e636b0.jpg"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/WQcTkyxBsJ56HRr6EmdPLnACxjk=/0x100/filters:format(webp)/d/imagecropper80aff59c-a8fd-4e90-a91a-507cd28cff15-59920-00001272a725a558-1785130131461.jpg",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/WQcTkyxBsJ56HRr6EmdPLnACxjk=/0x100/filters:format(webp)/d/imagecropper80aff59c-a8fd-4e90-a91a-507cd28cff15-59920-00001272a725a558-1785130131461.jpg",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/zOBmHOstzUrQp3cxqPBXM5EkQHQ=/0x200/filters:format(webp)/d/imagecropper80aff59c-a8fd-4e90-a91a-507cd28cff15-59920-00001272a725a558-1785130131461.jpg",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/pvjbBPwCRhWmSYGlTsWKOvaJklA=/0x300/filters:format(webp)/d/imagecropper80aff59c-a8fd-4e90-a91a-507cd28cff15-59920-00001272a725a558-1785130131461.jpg",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://redeem.services.apple/fcmobile-2026-alac-console?mod=1&utm_medium=email&utm_source=SFMC&utm_campaign=FC26_PO_AQ_KME_FCM-2-Apple-MLS-ALAC-EM_EXP_X_X&Title=FC26_PO_AQ_KME_FCM-2-Apple-MLS-ALAC-EM_EXP_X_X&Country=BR&Team=gem&Platform=SFMC&Campaign=latam-Jul_26_2026-Email_2-0",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3JlZGVlbS5zZXJ2aWNlcy5hcHBsZS9mY21vYmlsZS0yMDI2LWFsYWMtY29uc29sZT9tb2Q9MSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9U0ZNQyZ1dG1fY2FtcGFpZ249RkMyNl9QT19BUV9LTUVfRkNNLTItQXBwbGUtTUxTLUFMQUMtRU1fRVhQX1hfWCZUaXRsZT1GQzI2X1BPX0FRX0tNRV9GQ00tMi1BcHBsZS1NTFMtQUxBQy1FTV9FWFBfWF9YJkNvdW50cnk9QlImVGVhbT1nZW0mUGxhdGZvcm09U0ZNQyZDYW1wYWlnbj1sYXRhbS1KdWxfMjZfMjAyNi1FbWFpbF8yLTAiLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDM0NDU2MSwiaWF0IjoxNzg2MzIwMzQ0LCJleHAiOjE4MjA4ODAzNDR9.TPNaND6ZtMwLIm-Mb7LyHFcT9C6I7t9EPNHG3pVIVKY",
+                "cashback": null,
+                "lastActivityAt": "7 dias"
+            },
+            {
+                "id": "6e2c0d76-1fc7-4b18-a184-eba22a01174a",
+                "slug": "we-were-here-together-jogo-gratis-na-epic-767e",
+                "title": "We Were Here Together - Jogo Grátis na Epic",
+                "temperature": 3447,
+                "commentCount": 5,
+                "date": "4 dias",
+                "price": 0,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-06T14:59:15.232Z",
+                "firstApprovedAt": "2026-08-06T15:00:12.890Z",
+                "store": {
+                    "id": "941",
+                    "name": "Epic Games",
+                    "slug": "epicgames.com",
+                    "logo": "s/dc8e8442-13b6-496e-9ac3-4f4042029d28.png",
+                    "linkingEnabled": true,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "52434",
+                    "nickname": "baratinho",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/MSA1na-5GSVz_Rf2WxDirOfsFSk=/100x100/filters:format(webp)/u/baratinho-perfil-1760643200284.png"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/UkjOc68KLFBgaNUtUOnEBkQIp14=/0x100/filters:format(webp)/d/we-were-here-together-1n67b-1786028323073.png",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/UkjOc68KLFBgaNUtUOnEBkQIp14=/0x100/filters:format(webp)/d/we-were-here-together-1n67b-1786028323073.png",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/CDPuM4Y4Pn_0-h2kfsXZf6JWCIY=/0x200/filters:format(webp)/d/we-were-here-together-1n67b-1786028323073.png",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/SGM93TGs0HXfzx4xCKX17cgqT7c=/0x300/filters:format(webp)/d/we-were-here-together-1n67b-1786028323073.png",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://store.epicgames.com/p/we-were-here-together-6a6d66",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3N0b3JlLmVwaWNnYW1lcy5jb20vcC93ZS13ZXJlLWhlcmUtdG9nZXRoZXItNmE2ZDY2IiwiaXNUcmFja2VkIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODYzMjAzNDQ1NjEsImlhdCI6MTc4NjMyMDM0NCwiZXhwIjoxODIwODgwMzQ0fQ.E79iOX5bmnYxxctNdm-AahFNhcVGhaupCstwf58ErlQ",
+                "cashback": null,
+                "lastActivityAt": "3 dias"
+            },
+            {
+                "id": "e4d3449f-48d8-4e14-aafe-51370dcdce01",
+                "slug": "steam-jogo-resident-evil-4-remake-pc-e33a",
+                "title": "[Steam] Jogo Resident Evil 4 Remake - PC",
+                "temperature": 3247,
+                "commentCount": 16,
+                "date": "5 dias",
+                "price": 29.69,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-05T17:03:19.081Z",
+                "firstApprovedAt": "2026-08-05T17:04:13.043Z",
+                "store": {
+                    "id": "344",
+                    "name": "Nuuvem",
+                    "slug": "nuuvem",
+                    "logo": "s/344_1.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "52434",
+                    "nickname": "baratinho",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/MSA1na-5GSVz_Rf2WxDirOfsFSk=/100x100/filters:format(webp)/u/baratinho-perfil-1760643200284.png"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/p3CJRF50vFI5EOp_QB6XIAgMEsM=/0x100/filters:format(webp)/d/residentgugu-1785959604945.png",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/p3CJRF50vFI5EOp_QB6XIAgMEsM=/0x100/filters:format(webp)/d/residentgugu-1785959604945.png",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/ATwXPwt78M0BRaMhrEFf2RbUOVc=/0x200/filters:format(webp)/d/residentgugu-1785959604945.png",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/1qBvLVVinDLiwMEM245Wx5x--Uo=/0x300/filters:format(webp)/d/residentgugu-1785959604945.png",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.nuuvem.com/br-pt/item/resident-evil-4-remake",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5udXV2ZW0uY29tL2JyLXB0L2l0ZW0vcmVzaWRlbnQtZXZpbC00LXJlbWFrZSIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMzQ0NTYxLCJpYXQiOjE3ODYzMjAzNDQsImV4cCI6MTgyMDg4MDM0NH0.ov6CZU8UAc_pCxCpyEGMYAaULAwBhGJ66H0ZbUwaBow",
+                "cashback": null,
+                "lastActivityAt": "4 dias"
+            },
+            {
+                "id": "db932fb3-657d-4084-ac1c-5d47e9392b8b",
+                "slug": "jogo-metal-slug-3-resgate-gratis-para-xbox-a1a8",
+                "title": "Jogo Metal Slug 3 - Resgate Grátis para Xbox ",
+                "temperature": 3139,
+                "commentCount": 20,
+                "date": "4 dias",
+                "price": null,
+                "discountPercentage": null,
+                "discountFixed": null,
+                "freeShipping": null,
+                "status": "active",
+                "createdAt": "2026-08-06T14:21:44.117Z",
+                "firstApprovedAt": "2026-08-06T14:22:13.362Z",
+                "store": {
+                    "id": "526",
+                    "name": "Xbox Live",
+                    "slug": "xbox.com",
+                    "logo": "s/526_1.png",
+                    "linkingEnabled": false,
+                    "pageEnabled": false
+                },
+                "author": {
+                    "id": "52434",
+                    "nickname": "baratinho",
+                    "topCreator": true,
+                    "isCreator": false,
+                    "profilePicture": "https://media.pelando.com.br/MSA1na-5GSVz_Rf2WxDirOfsFSk=/100x100/filters:format(webp)/u/baratinho-perfil-1760643200284.png"
+                },
+                "userVote": null,
+                "lastComment": null,
+                "imageUrl": "https://media.pelando.com.br/5o5ExmRZQh_sP-oi1YLLKjuP7CY=/0x100/filters:format(webp)/d/af52c763-23a0-4384-abad-258251308b23-1752506500523-1760481979534-1786026068121.webp",
+                "imageSrcset": [
+                    {
+                        "url": "https://media.pelando.com.br/5o5ExmRZQh_sP-oi1YLLKjuP7CY=/0x100/filters:format(webp)/d/af52c763-23a0-4384-abad-258251308b23-1752506500523-1760481979534-1786026068121.webp",
+                        "width": 100
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/VEBNrx4ZcCH5lp5bE23Eic-jK84=/0x200/filters:format(webp)/d/af52c763-23a0-4384-abad-258251308b23-1752506500523-1760481979534-1786026068121.webp",
+                        "width": 200
+                    },
+                    {
+                        "url": "https://media.pelando.com.br/wX8vUR8PUQe1h2kXt7qi7yd1MAc=/0x300/filters:format(webp)/d/af52c763-23a0-4384-abad-258251308b23-1752506500523-1760481979534-1786026068121.webp",
+                        "width": 300
+                    }
+                ],
+                "kind": "promotion",
+                "sourceUrl": "https://www.xbox.com/he-IL/games/store/metal-slug-3/BZHS2XCVV5T3?=",
+                "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy54Ym94LmNvbS9oZS1JTC9nYW1lcy9zdG9yZS9tZXRhbC1zbHVnLTMvQlpIUzJYQ1ZWNVQzPz0iLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDM0NDU2MiwiaWF0IjoxNzg2MzIwMzQ0LCJleHAiOjE4MjA4ODAzNDR9.66HVfuwtzNSmq6A-0IStlSfvIWD67-jFE3akVHxn3w0",
+                "cashback": null,
+                "lastActivityAt": "3 dias"
+            }
+        ],
+        "pageInfo": {
+            "hasPreviousPage": true,
+            "hasNextPage": true,
+            "pageSize": 20,
+            "startCursor": "8122f7b8-baa4-4217-9f7c-06297b194de2",
+            "endCursor": "db932fb3-657d-4084-ac1c-5d47e9392b8b"
+        }
+    },
+    "timestamp": "2026-08-10T00:05:44.562Z"
+}

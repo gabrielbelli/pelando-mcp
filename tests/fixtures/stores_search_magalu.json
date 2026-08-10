@@ -1,0 +1,132 @@
+{
+    "data": {
+        "stores": [
+            {
+                "id": "276",
+                "name": "Magalu",
+                "slug": "magalu",
+                "url": "https://www.magazineluiza.com.br/",
+                "logo": "https://media.pelando.com.br/a9JvATGr-pCrO9_MIwf9_2YvpK0=/0x160/filters:format(webp)/s/magazine-luiza-1776453552806.png",
+                "couponCount": 27,
+                "promotionCount": 310,
+                "coupons": [
+                    {
+                        "userVote": null,
+                        "id": "f33176ac-3594-443e-abe1-87d80d3e7f56",
+                        "title": "Cupom Magalu R$ 400 acima de R$ 6000",
+                        "description": null,
+                        "rulesDescription": "<p>No app apenas itens vendidos por Magalu</p>",
+                        "status": "active",
+                        "couponCode": "INFLU400",
+                        "discountFixed": 400,
+                        "slug": "cupom-magalu-rdollar-400-acima-de-rdollar-6000-08-ago-2026-aaa1",
+                        "freeShipping": null,
+                        "sourceUrl": "https://m.magazineluiza.com.br/smartphone-samsung-galaxy-s26-ultra-256gb-preto-5g-smartwatch-samsung-galaxy-watch8-40mm-grafite/p/239220900/te/g26u/?partner_id=64853&utm_source=pdp_desk&utm_medium=share&seller_id=magazineluiza",
+                        "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL20ubWFnYXppbmVsdWl6YS5jb20uYnIvc21hcnRwaG9uZS1zYW1zdW5nLWdhbGF4eS1zMjYtdWx0cmEtMjU2Z2ItcHJldG8tNWctc21hcnR3YXRjaC1zYW1zdW5nLWdhbGF4eS13YXRjaDgtNDBtbS1ncmFmaXRlL3AvMjM5MjIwOTAwL3RlL2cyNnUvP3BhcnRuZXJfaWQ9NjQ4NTMmdXRtX3NvdXJjZT1wZHBfZGVzayZ1dG1fbWVkaXVtPXNoYXJlJnNlbGxlcl9pZD1tYWdhemluZWx1aXphIiwiaXNUcmFja2VkIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODYzMjAyNjc3ODcsImlhdCI6MTc4NjMyMDI2NywiZXhwIjoxODIwODgwMjY3fQ.iEhScx6t7VHn1SyHzH6fx8toA6tzeZPi_k4s35EWb9c",
+                        "temperature": 126,
+                        "commentCount": 7,
+                        "createdAt": "2026-08-08T12:25:16.968Z"
+                    },
+                    {
+                        "userVote": null,
+                        "id": "7b5f969a-3ab6-4383-9dbc-e42836abdf87",
+                        "title": "Cupom Magalu R$ 350 acima de R$ 3500",
+                        "description": null,
+                        "rulesDescription": "<p>No app apenas itens vendidos por Magalu</p>",
+                        "status": "active",
+                        "couponCode": "INFLU350",
+                        "discountFixed": 350,
+                        "slug": "cupom-magalu-rdollar-350-acima-de-rdollar-3500-08-ago-2026-9902",
+                        "freeShipping": null,
+                        "sourceUrl": "https://m.magazineluiza.com.br/samsung-galaxy-s25-5g-256gb-galaxy-ai-prata-62-12gb-ram-cam-tripla-50-12-10mp-bateria-4000mah-dual-chip/p/238922900/te/gs25/?partner_id=64853&utm_source=pdp_desk&utm_medium=share&seller_id=magazineluiza",
+                        "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL20ubWFnYXppbmVsdWl6YS5jb20uYnIvc2Ftc3VuZy1nYWxheHktczI1LTVnLTI1NmdiLWdhbGF4eS1haS1wcmF0YS02Mi0xMmdiLXJhbS1jYW0tdHJpcGxhLTUwLTEyLTEwbXAtYmF0ZXJpYS00MDAwbWFoLWR1YWwtY2hpcC9wLzIzODkyMjkwMC90ZS9nczI1Lz9wYXJ0bmVyX2lkPTY0ODUzJnV0bV9zb3VyY2U9cGRwX2Rlc2smdXRtX21lZGl1bT1zaGFyZSZzZWxsZXJfaWQ9bWFnYXppbmVsdWl6YSIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMjY3Nzg3LCJpYXQiOjE3ODYzMjAyNjcsImV4cCI6MTgyMDg4MDI2N30.i2mpo-UKsjkrtzEJlyKIwnX8Nr3KUCcwEy7GX7u0abE",
+                        "temperature": 71,
+                        "commentCount": 2,
+                        "createdAt": "2026-08-08T12:24:37.473Z"
+                    },
+                    {
+                        "userVote": null,
+                        "id": "317280c4-b790-417f-94db-5d541b3a0d4b",
+                        "title": "Cupom Magalu R$ 200 OFF acima de R$ 2200",
+                        "description": null,
+                        "rulesDescription": "<p>Cupom valido no APP corrre</p>",
+                        "status": "active",
+                        "couponCode": "PAYDAY200",
+                        "discountFixed": 200,
+                        "slug": "cupom-magalu-rdollar-200-off-acima-de-rdollar-2200-07-ago-2026-b51c",
+                        "freeShipping": null,
+                        "sourceUrl": "https://www.magazineluiza.com.br/robo-aspirador-de-po-e-passa-pano-kabum-smart-k1100-mapeamento-mop-rotativo-autolimpante-ate-10000pa-app-127v-preto-ksar110010pt/p/cd0egdj5aa/ep/eapa/?seller_id=kabum",
+                        "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5tYWdhemluZWx1aXphLmNvbS5ici9yb2JvLWFzcGlyYWRvci1kZS1wby1lLXBhc3NhLXBhbm8ta2FidW0tc21hcnQtazExMDAtbWFwZWFtZW50by1tb3Atcm90YXRpdm8tYXV0b2xpbXBhbnRlLWF0ZS0xMDAwMHBhLWFwcC0xMjd2LXByZXRvLWtzYXIxMTAwMTBwdC9wL2NkMGVnZGo1YWEvZXAvZWFwYS8_c2VsbGVyX2lkPWthYnVtIiwiaXNUcmFja2VkIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODYzMjAyNjc3ODcsImlhdCI6MTc4NjMyMDI2NywiZXhwIjoxODIwODgwMjY3fQ.FfDbh2uBTF3vrCP2pZAAPBgsFa2rjHe_KhnczoRHPac",
+                        "temperature": 62,
+                        "commentCount": 0,
+                        "createdAt": "2026-08-07T19:27:26.047Z"
+                    },
+                    {
+                        "userVote": null,
+                        "id": "f1db0794-92a5-478b-a38c-43ce008c43c9",
+                        "title": "Cupom Magalu R$ 100 OFF acima de R$ 1200",
+                        "description": null,
+                        "rulesDescription": "<p>Valido no APP da Magalu</p>",
+                        "status": "active",
+                        "couponCode": "PAYDAY100OFF",
+                        "discountFixed": 100,
+                        "slug": "cupom-magalu-rdollar-100-off-acima-de-rdollar-1200-07-ago-2026-d3b7",
+                        "freeShipping": null,
+                        "sourceUrl": "https://www.magazineluiza.com.br/robo-aspirador-e-passa-pano-kabum-smart-900-5-modos-de-limpeza-base-2-em-1-mapeamento-3d-127v-branco-kbsf011/p/hgakcc8e90/ep/eprb/?seller_id=kabum",
+                        "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5tYWdhemluZWx1aXphLmNvbS5ici9yb2JvLWFzcGlyYWRvci1lLXBhc3NhLXBhbm8ta2FidW0tc21hcnQtOTAwLTUtbW9kb3MtZGUtbGltcGV6YS1iYXNlLTItZW0tMS1tYXBlYW1lbnRvLTNkLTEyN3YtYnJhbmNvLWtic2YwMTEvcC9oZ2FrY2M4ZTkwL2VwL2VwcmIvP3NlbGxlcl9pZD1rYWJ1bSIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMjY3Nzg4LCJpYXQiOjE3ODYzMjAyNjcsImV4cCI6MTgyMDg4MDI2N30.m4tzyBWlK_gooLSD8zk1G1Lmf5kFy9MK7PrJCdgDQfw",
+                        "temperature": 53,
+                        "commentCount": 0,
+                        "createdAt": "2026-08-07T19:14:13.752Z"
+                    },
+                    {
+                        "userVote": null,
+                        "id": "29332441-ea60-41aa-8616-36a3a0ce5c18",
+                        "title": "Cupom Magalu R$ 150 OFF acima de R$ 1000",
+                        "description": null,
+                        "rulesDescription": "<p>Corrre muito no app </p>",
+                        "status": "active",
+                        "couponCode": "PAYDAY9H",
+                        "discountFixed": 150,
+                        "slug": "cupom-magalu-rdollar-150-off-acima-de-rdollar-1000-07-ago-2026-47de",
+                        "freeShipping": null,
+                        "sourceUrl": "https://m.magazineluiza.com.br/robo-aspirador-de-po-velds-3-em-1-varre-aspira-e-passa-pano-com-mapeamento-via-app-sensor-antiqueda-e-limpeza-multisuperficie-bivolt/p/bcc09bhek4/ep/eprb/?partner_id=64853&utm_source=pdp_desk&utm_medium=share&seller_id=velds",
+                        "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL20ubWFnYXppbmVsdWl6YS5jb20uYnIvcm9iby1hc3BpcmFkb3ItZGUtcG8tdmVsZHMtMy1lbS0xLXZhcnJlLWFzcGlyYS1lLXBhc3NhLXBhbm8tY29tLW1hcGVhbWVudG8tdmlhLWFwcC1zZW5zb3ItYW50aXF1ZWRhLWUtbGltcGV6YS1tdWx0aXN1cGVyZmljaWUtYml2b2x0L3AvYmNjMDliaGVrNC9lcC9lcHJiLz9wYXJ0bmVyX2lkPTY0ODUzJnV0bV9zb3VyY2U9cGRwX2Rlc2smdXRtX21lZGl1bT1zaGFyZSZzZWxsZXJfaWQ9dmVsZHMiLCJpc1RyYWNrZWQiOnRydWUsInRpbWVzdGFtcCI6MTc4NjMyMDI2Nzc4OCwiaWF0IjoxNzg2MzIwMjY3LCJleHAiOjE4MjA4ODAyNjd9.KS-PDd0kpwG5qhtl5DsVEp7FNDZQeJv0LwYc8IUtGlA",
+                        "temperature": 103,
+                        "commentCount": 0,
+                        "createdAt": "2026-08-07T12:09:17.665Z"
+                    },
+                    {
+                        "userVote": null,
+                        "id": "6c53aaa2-0f3c-433a-96ff-f2afb0d92a60",
+                        "title": "Cupom Magalu: R$330 OFF para compras acima de R$3.000",
+                        "description": null,
+                        "rulesDescription": "<p>R$330 de desconto em compras acima de R$3.000</p>",
+                        "status": "active",
+                        "couponCode": "PELANDO330",
+                        "discountFixed": 330,
+                        "slug": "cupom-magalu-rdollar330-off-para-compras-acima-de-rdollar3000-06-ago-2026-db39",
+                        "freeShipping": null,
+                        "sourceUrl": "https://www.magazineluiza.com.br/smart-tv-lg-50-4k-wi-fi-50ua8550psa-comando-de-voz/p/ab4170a2cj/et/elit/?seller_id=gazinshop",
+                        "redirectUrl": "https://dpl.pelando.com.br/r/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5tYWdhemluZWx1aXphLmNvbS5ici9zbWFydC10di1sZy01MC00ay13aS1maS01MHVhODU1MHBzYS1jb21hbmRvLWRlLXZvei9wL2FiNDE3MGEyY2ovZXQvZWxpdC8_c2VsbGVyX2lkPWdhemluc2hvcCIsImlzVHJhY2tlZCI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2MzIwMjY3Nzg4LCJpYXQiOjE3ODYzMjAyNjcsImV4cCI6MTgyMDg4MDI2N30.ehJ-GLyz5vK451OnDr06xZNFU_r-WuNGwOCP_ZzutIk",
+                        "temperature": 160,
+                        "commentCount": 3,
+                        "createdAt": "2026-08-06T13:27:37.134Z"
+                    }
+                ],
+                "faq": [],
+                "linkingEnabled": true,
+                "pageEnabled": true,
+                "openGraphImageUrl": "https://media.pelando.com.br/fb_w4W5h19D78NGVbQMzSBRRNas=/0x400/filters:format(webp)/s/magazine-luiza-1776453552806.png"
+            }
+        ],
+        "meta": {
+            "totalCount": 1,
+            "term": "magalu"
+        },
+        "pageInfo": {
+            "page": 1,
+            "total": 1
+        }
+    },
+    "timestamp": "2026-08-10T00:04:27.788Z"
+}

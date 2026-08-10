@@ -1,0 +1,62 @@
+{
+    "data": {
+        "communities": [
+            {
+                "id": "HsdqvYK9I6_sXQKM2xsq7",
+                "name": "Tech Lover",
+                "slug": "tech-lover"
+            },
+            {
+                "id": "3R_h7wyLq7KfXpgD0p-Hh",
+                "name": "Mundo Gamer",
+                "slug": "mundo-gamer"
+            },
+            {
+                "id": "nAmxJwR_fu179ApgoToLt",
+                "name": "Para meu lar",
+                "slug": "para-meu-lar"
+            },
+            {
+                "id": "wqHlW7_TG3V_J6BengI5-",
+                "name": "Tudo grátis",
+                "slug": "tudo-gratis"
+            },
+            {
+                "id": "RT4IO_qOSZ5ZcToCDo0cJ",
+                "name": "Para elas",
+                "slug": "para-elas"
+            },
+            {
+                "id": "ViKzsZ0WV4UJz4ZLjx6lX",
+                "name": "Para eles",
+                "slug": "para-eles"
+            },
+            {
+                "id": "np4UfrR2bI85aYBa0Dvfz",
+                "name": "Cultura",
+                "slug": "cultura"
+            },
+            {
+                "id": "fEj8RFoNd3_fMPBii68Ra",
+                "name": "Achadinhos importados",
+                "slug": "achadinhos-importados"
+            },
+            {
+                "id": "KaOGrd8qlx7jas7ftDUxO",
+                "name": "É meme ou promo?",
+                "slug": "e-meme-ou-promo"
+            },
+            {
+                "id": "SPRzDkizYysJRWNyq_dDe",
+                "name": "Esporte & vida",
+                "slug": "esporte-e-vida"
+            },
+            {
+                "id": "_euIMybW4djvEZH7ialTR",
+                "name": "Família, filhos e pets",
+                "slug": "para-minha-familia"
+            }
+        ]
+    },
+    "timestamp": "2026-08-10T00:05:46.515Z"
+}

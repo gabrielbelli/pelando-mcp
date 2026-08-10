@@ -1,0 +1,1103 @@
+{
+    "data": {
+        "totalComments": 42,
+        "comments": [
+            {
+                "id": "32c9599c-385e-4ad0-99d1-a6ce97bdf6e5",
+                "content": "<p>tu vai pagar por um notebook de 5500 e necessariamente ainda vai precisar de mais 8gb de RAM pra ele ser \u00fatil. isso tudo com uma placa de v\u00eddeo de entrada da gera\u00e7\u00e3o passada. a pergunta \u00e9, pq vcs querem um notebook?</p>",
+                "user": {
+                    "id": "b4b1fb42-24db-4896-bf28-3a61779d2186",
+                    "nickname": "leonardobecker7937",
+                    "profilePicture": "https://media.pelando.com.br/9fINA-YyKdFVyNV0h4VcyBRDmPk=/0x30/filters:format(webp)/u/7bd1d654-8292-4a21-965b-610c4ce4b8f2.jpeg",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "isAdmin": false,
+                    "specialty": null
+                },
+                "userReaction": null,
+                "reactions": {
+                    "likeCount": 2,
+                    "hahaCount": 0,
+                    "usefulCount": 0
+                },
+                "replyToId": null,
+                "status": "active",
+                "replies": [
+                    {
+                        "id": "ee8937af-bd30-446e-afed-ac43449dfe49",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardobecker7937\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardobecker7937</a> Como eu vou levar pra viagem um PC de mesa?</p>",
+                        "user": {
+                            "id": "cbeb549b-c2cd-4e3a-b057-48284ad7ed78",
+                            "nickname": "marcelo_felipe_da_luz_925d",
+                            "profilePicture": null,
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 4,
+                            "hahaCount": 9,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "32c9599c-385e-4ad0-99d1-a6ce97bdf6e5",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-04T19:21:59.472Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "19178adc-e0e9-4fbe-a51d-9a78e404626e",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/marcelo_felipe_da_luz_925d\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@marcelo_felipe_da_luz_925d</a> quantas vezes na vida tu vai precisar levar um notebook gamer pra viagem? essa \u00e9 a quest\u00e3o </p>",
+                        "user": {
+                            "id": "b4b1fb42-24db-4896-bf28-3a61779d2186",
+                            "nickname": "leonardobecker7937",
+                            "profilePicture": "https://media.pelando.com.br/9fINA-YyKdFVyNV0h4VcyBRDmPk=/0x30/filters:format(webp)/u/7bd1d654-8292-4a21-965b-610c4ce4b8f2.jpeg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 2,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "ee8937af-bd30-446e-afed-ac43449dfe49",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-04T19:51:09.213Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "0c6f7c22-e669-4136-abaf-5a2b3bf9a963",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardobecker7937\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardobecker7937</a> Nem vou debater! </p>",
+                        "user": {
+                            "id": "cbeb549b-c2cd-4e3a-b057-48284ad7ed78",
+                            "nickname": "marcelo_felipe_da_luz_925d",
+                            "profilePicture": null,
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 3,
+                            "hahaCount": 3,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "19178adc-e0e9-4fbe-a51d-9a78e404626e",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-04T19:53:15.991Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "1e6f6326-5315-425b-a86d-2e4d7a3cb73f",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardobecker7937\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardobecker7937</a> dependendo do trabalho do cara, muitas e muitas vezes, essa foi uma pergunta bem burra amigo e mais burro sou eu que vim responder </p>",
+                        "user": {
+                            "id": "642ae773-c065-4de7-88ff-3deb043d4660",
+                            "nickname": "yl3792",
+                            "profilePicture": "https://media.pelando.com.br/xrE9Xvci7PHJ2FlMWsRCQ6pBd6U=/0x30/filters:format(webp)/u/d720a4f5-be97-4ffe-bbad-6a17dc87cb3f.jpeg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 7,
+                            "hahaCount": 10,
+                            "usefulCount": 4
+                        },
+                        "replyToId": "19178adc-e0e9-4fbe-a51d-9a78e404626e",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-04T20:42:07.426Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "062d03e8-0395-4fce-900d-34ceb22cfe75",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/yl3792\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@yl3792</a> dependendo do trabalho do cara, ele vai levar um notebook gamer junto?. Tu n\u00e3o \u00e9 burro por n\u00e3o entender, a pergunta \u00e9 honesta. Tem gente comprando notebook gamer pra deixar na tomada em casa, esse a\u00ed em espec\u00edfico vai bater 6k com mais 8gb de RAM, com esse valor tu n\u00e3o consegue um computador melhor, e mais, se tu for usar isso pra algum jogo pesado, o notebook n\u00e3o vai segurar bateria por muito tempo igual. </p>",
+                        "user": {
+                            "id": "b4b1fb42-24db-4896-bf28-3a61779d2186",
+                            "nickname": "leonardobecker7937",
+                            "profilePicture": "https://media.pelando.com.br/9fINA-YyKdFVyNV0h4VcyBRDmPk=/0x30/filters:format(webp)/u/7bd1d654-8292-4a21-965b-610c4ce4b8f2.jpeg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "1e6f6326-5315-425b-a86d-2e4d7a3cb73f",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-04T20:50:58.067Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "ca335ea8-26da-4cff-9f45-1c9ee5fd8bec",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardobecker7937\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardobecker7937</a> pensa assim amigo, imagina que  sou arquiteto e viajo bastante, os programas que eu utilizo precisa de uma maquina potente, de fato eu vou precisar dar um up de ram mas ainda sim essa vai ser a melhor op\u00e7\u00e3o pra mim, porque posso trabalhar em qualquer lugar que eu for, entendeu? eu posso ir mais perto, imagina que eu gosto de jogar e viajo muito, logo um pc n\u00e3o \u00e9 viavel para mim, pouco importa o valor, o pc eu n\u00e3o posso levar na mochila, nem aqueles mini, o notebook eu consigo, compreendeu? </p>",
+                        "user": {
+                            "id": "642ae773-c065-4de7-88ff-3deb043d4660",
+                            "nickname": "yl3792",
+                            "profilePicture": "https://media.pelando.com.br/xrE9Xvci7PHJ2FlMWsRCQ6pBd6U=/0x30/filters:format(webp)/u/d720a4f5-be97-4ffe-bbad-6a17dc87cb3f.jpeg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 4,
+                            "hahaCount": 0,
+                            "usefulCount": 7
+                        },
+                        "replyToId": "062d03e8-0395-4fce-900d-34ceb22cfe75",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-04T20:57:27.953Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "e56877ae-1662-4494-b3be-27b22f8fb9bb",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardobecker7937\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardobecker7937</a> estou procur que um desktop pra trabalhar e n\u00e3o t\u00e1 compensando tamb\u00e9m muito n\u00e3o viu? A maioria que est\u00e3o sendo divulgados \u00e9 voltado pra games, sem wi-fi, bluetooth, windows etc...</p><p>T\u00e1 come\u00e7ando a compensar mais outro notebook, mesmo pra ficar fixo </p>",
+                        "user": {
+                            "id": "630442",
+                            "nickname": "francisco_cezar",
+                            "profilePicture": "https://media.pelando.com.br/J22APpN8sCz-z-mRWDS2Lgjolfs=/0x30/filters:format(webp)/u/630442_1.png",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 2
+                        },
+                        "replyToId": "32c9599c-385e-4ad0-99d1-a6ce97bdf6e5",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-04T21:27:55.981Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "e32bb935-44f3-40cd-be8b-7ba90d6a2379",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardobecker7937\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardobecker7937</a> Voc\u00ea diria que o pre\u00e7o de um PC normal t\u00e1 muito mais barato que um notebook hoje em dia? Com 5400 vc compra algo muito melhor que esse Ryzen 7, rtx4060, etc? Pergunta honesta. (desconsidere perif\u00e9ricos e monitor)</p>",
+                        "user": {
+                            "id": "509805",
+                            "nickname": "allan.ramires",
+                            "profilePicture": "https://media.pelando.com.br/0jrNnUJl8O6VasJMoSG8eKYrfP8=/0x30/filters:format(webp)/u/509805_1.jpg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 5
+                        },
+                        "replyToId": "19178adc-e0e9-4fbe-a51d-9a78e404626e",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-04T22:12:47.328Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "02516c08-7f3b-4081-8ffe-96a86268911e",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardobecker7937\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardobecker7937</a> o cara acha que a realidade min\u00fascula dele \u00e9 igual a de todo mundo. </p>",
+                        "user": {
+                            "id": "890124",
+                            "nickname": "gustavo.klim",
+                            "profilePicture": "https://media.pelando.com.br/Nard6CScHP4NrKMaMG1DRY1DADc=/0x30/filters:format(webp)/u/970b523d-7344-4a0d-a28b-7d2899245a48.jpeg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 1,
+                            "hahaCount": 0,
+                            "usefulCount": 1
+                        },
+                        "replyToId": "32c9599c-385e-4ad0-99d1-a6ce97bdf6e5",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T12:33:33.078Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "0884f2b3-3009-499c-aba9-f2934745d3d3",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardobecker7937\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardobecker7937</a> </p><p>Amigo, no meu caso, eu uso o notebook pra muita coisa, inclusive jogar, mas pra ter um desempenho decente para qualquer coisa o \u00fanico jeito \u00e9 ligar na tomada o tempo todo, al\u00e9m disso tem a quest\u00e3o do upgrade limitado a basicamente mem\u00f3ria e ssd se n\u00e3o estou enganado, sendo assim, eu concordo que um desktop ser\u00e1 sempre superior nesse sentido, eu tamb\u00e9m gosto e tenho um mais defasado que ligo as vezes pra matar a saudade.</p><p>Mas seja qual for a escolha, notebook, desktop ou um console de \u00faltima gera\u00e7\u00e3o, sempre teremos que abrir m\u00e3o de alguma coisa, n\u00e3o tem como fugir disso.</p>",
+                        "user": {
+                            "id": "3132282d-c238-407b-83d4-ddc869a189b9",
+                            "nickname": "jal_3a37",
+                            "profilePicture": null,
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 1,
+                            "hahaCount": 0,
+                            "usefulCount": 1
+                        },
+                        "replyToId": "32c9599c-385e-4ad0-99d1-a6ce97bdf6e5",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T13:39:39.368Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "3cabe9b1-9028-478f-8418-bfcaa5a1ce3a",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/jal_3a37\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@jal_3a37</a> aqui tu disse tudo. O fato de ter um monte de gente mordida com a minha pergunta expoem muita coisa. tem gente querendo pagar 5500 num notebook que tem 3 anos de vida \u00fatil ainda, mas n\u00e3o querem pagar um tanto a mais num desktop que pode receber upgrades no futuro. a 4050 mobile \u00e9 pior que uma 3060 de desktop, e n\u00e3o \u00e9 muito melhor que uma 3050 de desktop. Mas a quest\u00e3o nem foi essa, a quest\u00e3o \u00e9 bem simples, mas aparentemente todo mundo viaja bastante e precisa de um notebook gamer com placa de v\u00eddeo de entrada da gera\u00e7\u00e3o passada. </p>",
+                        "user": {
+                            "id": "b4b1fb42-24db-4896-bf28-3a61779d2186",
+                            "nickname": "leonardobecker7937",
+                            "profilePicture": "https://media.pelando.com.br/9fINA-YyKdFVyNV0h4VcyBRDmPk=/0x30/filters:format(webp)/u/7bd1d654-8292-4a21-965b-610c4ce4b8f2.jpeg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 1,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "0884f2b3-3009-499c-aba9-f2934745d3d3",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T13:56:25.301Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "27c45e02-9693-424b-a08a-efca2a313f78",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/allan.ramires\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@allan.ramires</a> a compara\u00e7\u00e3o n\u00e3o \u00e9 muito justa. a 4050 mobile \u00e9 pior que uma 3060 desktop, e o processador a mesma coisa. Portanto n\u00e3o precisaria ser um modelo melhor pra ter mais desempenho. Outro coisa, um desktop tem vida \u00fatil infinitamente maior gra\u00e7as a possibilidade de upgrades, j\u00e1 um notebook com placa de v\u00eddeo se entrada da gera\u00e7\u00e3o passada tem uns 3 anos ainda de uso, depois tu n\u00e3o vai mais rodar nenhum jogo lan\u00e7amento, e pra viagens \u00e9 pior ainda pq ele vai ficar fora da tomada, ent\u00e3o o desempenho piora bastante. A maioria n\u00e3o entendeu a pergunta. a pergunta n\u00e3o \u00e9; pq algu\u00e9m usaria um notebook gamer, a pergunta \u00e9 ; pq vc precisa de um notebook desses?. </p>",
+                        "user": {
+                            "id": "b4b1fb42-24db-4896-bf28-3a61779d2186",
+                            "nickname": "leonardobecker7937",
+                            "profilePicture": "https://media.pelando.com.br/9fINA-YyKdFVyNV0h4VcyBRDmPk=/0x30/filters:format(webp)/u/7bd1d654-8292-4a21-965b-610c4ce4b8f2.jpeg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 1,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "e32bb935-44f3-40cd-be8b-7ba90d6a2379",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T14:00:43.080Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "ec326643-087c-4bb7-ad4c-8179b4a720e1",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/yl3792\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@yl3792</a> Seus programas rodam num macbook ? porque se a resposta for sim seria bem melhor do que esse</p>",
+                        "user": {
+                            "id": "807055",
+                            "nickname": "emyte",
+                            "profilePicture": "https://media.pelando.com.br/0IIVeYhRODt-0RyFEQjW48soRS0=/0x30/filters:format(webp)/u/468aac99-7d68-4d82-b4f0-ce3c467badb6.png",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 1,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "ca335ea8-26da-4cff-9f45-1c9ee5fd8bec",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T14:04:27.246Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "ef051ffe-316a-4054-8e45-a1e423e19806",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardobecker7937\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardobecker7937</a> Esse lance de \"todo mundo viaja bastante e precisa de um notebook gamer\" me faz lembrar que agora, depois que chegaram os carros 100% el\u00e9tricos, todo mundo precisa de mais de 400km de autonomia pra viajar! N\u00e3o pode lan\u00e7ar um carro com autonomia entre 350 e 400km que j\u00e1 n\u00e3o serve, porque n\u00e3o d\u00e1 pra viajar! \u00c9 mole? <br /><br />Mesma coisa com estepe. Pegando s\u00f3 um espa\u00e7o de tempo limitado, desde que minha esposa comprou um Honda Fit em 2014, n\u00f3s NUNCA usamos o estepe, inclusive dos carros que vieram depois. Isso quer dizer que acho que n\u00e3o precisa? Claro que n\u00e3o, mas tamb\u00e9m n\u00e3o \u00e9 o fim do mundo n\u00e3o ter.</p>",
+                        "user": {
+                            "id": "93478e4f-c8b9-43c0-8e19-76e947591f5b",
+                            "nickname": "kidmumu",
+                            "profilePicture": "https://media.pelando.com.br/H7fVI2l5szi5AMqcPiGajojTlG0=/0x30/filters:format(webp)/u/9b4388d4-4af4-42ca-8150-d731d40b8bf7.jpg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": {
+                                "key": "genio-tech",
+                                "name": "G\u00eanio tech",
+                                "description": "Fera dos eletr\u00f4nicos e de tecnologia",
+                                "icon": "https://media.pelando.com.br/s727D7ZVPSZXA-SbRZkpftAJw7U=/filters:format(webp)/spe/genio_tech.png"
+                            }
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 1,
+                            "hahaCount": 0,
+                            "usefulCount": 1
+                        },
+                        "replyToId": "3cabe9b1-9028-478f-8418-bfcaa5a1ce3a",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T14:21:01.760Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "074ea796-4c59-46e4-829e-3acf4b861916",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardobecker7937\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardobecker7937</a> Ele \u00e9 executivo \ud83d\udcb0\ud83e\udef0\ud83d\ude06</p>",
+                        "user": {
+                            "id": "555607",
+                            "nickname": "lee_batista",
+                            "profilePicture": "https://media.pelando.com.br/uYmS6URgtItk7DnmflsWj9d3eaM=/0x30/filters:format(webp)/u/555607_1.jpg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "19178adc-e0e9-4fbe-a51d-9a78e404626e",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T14:44:50.621Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "8b6b03d4-04d0-42a3-8914-8b6428f480bf",
+                        "content": null,
+                        "user": {
+                            "id": "33f858bb-50d9-432f-ae40-2097cedc49ae",
+                            "nickname": "limguisagames",
+                            "profilePicture": "https://media.pelando.com.br/-IS1CFqwkPpnBIujLdpLuLcz8PU=/0x30/filters:format(webp)/u/imagecropper1776816214018-1776816221785.jpg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "3cabe9b1-9028-478f-8418-bfcaa5a1ce3a",
+                        "status": "deleted",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T14:49:10.299Z",
+                        "deletedAt": "2026-08-05T15:00:12.297Z"
+                    },
+                    {
+                        "id": "d260810d-2089-4dbc-bb11-91570c655bb2",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/limguisagames\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@limguisagames</a> mas ai \u00e9 \u00f3bvio que precisa desse tipo de notebook, ou um MacBook, mas \u00e9 o caso de TODOS que est\u00e3o querendo um notebook desses? \u00e9 o caso da maioria pelo menos? n\u00e3o estou questionando necessidade, mas vontade, bem gente que apenas quer um treco desses pra jogar</p>",
+                        "user": {
+                            "id": "b4b1fb42-24db-4896-bf28-3a61779d2186",
+                            "nickname": "leonardobecker7937",
+                            "profilePicture": "https://media.pelando.com.br/9fINA-YyKdFVyNV0h4VcyBRDmPk=/0x30/filters:format(webp)/u/7bd1d654-8292-4a21-965b-610c4ce4b8f2.jpeg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "8b6b03d4-04d0-42a3-8914-8b6428f480bf",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T15:04:34.509Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "c621cb3e-2a3c-4d94-95fb-3cfe193a6d3b",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardobecker7937\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardobecker7937</a> o cara quer pagar de esperto mas falou um monte de asneira. eu levo meu notebook pro trabalho todo dia e a noite uspcele pra jogar. bom mesmo \u00e9 investir em 2 setups, ne? fora que todo ano trabalhador tem uma coisa chamada f\u00e9rias onde voc\u00ea pode visitar fam\u00edlia e levar o computador pra usar no seu tempo livre. sua pondera\u00e7\u00e3o n\u00e3o faz o menor sentido, claramente pra voc\u00ea n\u00e3o tem utilidade, mas sua realidade n\u00e3o \u00e9 a de todo mundo</p>",
+                        "user": {
+                            "id": "3024862b-5697-42c2-8a4d-4381aaa67fab",
+                            "nickname": "leonardocezar",
+                            "profilePicture": "https://media.pelando.com.br/U5Ty8MNemLC1ru2eBMIBDNhCZ1w=/0x30/filters:format(webp)/u/a1a998cc-63ca-4c5e-be5a-fdce55acef61.jpeg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 1,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "32c9599c-385e-4ad0-99d1-a6ce97bdf6e5",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T15:13:40.833Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "eb13cc0a-c19b-4c5b-93f4-e927a29265c7",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardobecker7937\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardobecker7937</a> assim, \u00e9 claro que pelo pre\u00e7o um desktop compensaria mais pelo desempenho bruto ,mas vai doq cada um prefere,o espa\u00e7o, se quer levar pra outro lugar e etc.. se algu\u00e9m quer comprar um notebook gamer \u00e9 justamente pelos diferenciais dele</p>",
+                        "user": {
+                            "id": "33f858bb-50d9-432f-ae40-2097cedc49ae",
+                            "nickname": "limguisagames",
+                            "profilePicture": "https://media.pelando.com.br/-IS1CFqwkPpnBIujLdpLuLcz8PU=/0x30/filters:format(webp)/u/imagecropper1776816214018-1776816221785.jpg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "d260810d-2089-4dbc-bb11-91570c655bb2",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T15:22:21.868Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "555b3614-6065-4a00-8f8a-f5a6df4488c3",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardobecker7937\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardobecker7937</a> cert\u00edssimo mano ,maioria nunca vai ussar efetivamente,que nao faria em um desktop, \u00e9 pagando muito mais caro.</p>",
+                        "user": {
+                            "id": "90e256e1-7320-46ed-be23-c7a74e50c9f7",
+                            "nickname": "samuel_alves_db70",
+                            "profilePicture": null,
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 1,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "3cabe9b1-9028-478f-8418-bfcaa5a1ce3a",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T15:24:36.321Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "81a43dfa-cf7c-4ad1-a7fe-a39f62c68551",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/limguisagames\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@limguisagames</a> mais ou menos, tem gente que n\u00e3o entendeu ainda que a placa e o processador de notebook s\u00e3o piores do que os de desktop, e tamb\u00e9m n\u00e3o entenderam que fora da tomada, o desempenho \u00e9 pior ainda. Ou seja, parte \u00e9 desinforma\u00e7\u00e3o, e parte e tamb\u00e9m justificar uma escolha mal pensada. N\u00e3o questiono quem sabe que vai precisar, mas a maioria das pessoas anda comorando notebook gamer achando que est\u00e1 levando um desktop m\u00f3vel, essa que \u00e9 a verdade. </p>",
+                        "user": {
+                            "id": "b4b1fb42-24db-4896-bf28-3a61779d2186",
+                            "nickname": "leonardobecker7937",
+                            "profilePicture": "https://media.pelando.com.br/9fINA-YyKdFVyNV0h4VcyBRDmPk=/0x30/filters:format(webp)/u/7bd1d654-8292-4a21-965b-610c4ce4b8f2.jpeg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "eb13cc0a-c19b-4c5b-93f4-e927a29265c7",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T15:31:01.922Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "8d129df8-1779-43b8-aafd-62f651a0cc7e",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardobecker7937\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardobecker7937</a> pqp kkk</p>",
+                        "user": {
+                            "id": "83f1f7d8-cc1b-4972-a33f-b29d97efcc77",
+                            "nickname": "truxxton",
+                            "profilePicture": null,
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "32c9599c-385e-4ad0-99d1-a6ce97bdf6e5",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T15:31:32.933Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "ed9a4396-a94f-41eb-ab27-9f462ff566a7",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardocezar\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardocezar</a> parab\u00e9ns, voc\u00ea leva seu notebook pro trabalho,  voc\u00ea fem de fato uma utilidade pra ele, n\u00e3o \u00e9 o caso da maioria. Nas f\u00e9rias tu sai de casa pra ficar jogando tbm? que engra\u00e7ado, mas \u00e9 uma op\u00e7\u00e3o tua, n\u00e3o estou questionando quem usa pra trabalhar pq isso \u00e9 \u00f3bvio, s\u00f3 estou questionando quem n\u00e3o tem uma utiliza\u00e7\u00e3o clara para a mobilidade do notebook e acha que est\u00e1 fazendo uma boa compra. </p>",
+                        "user": {
+                            "id": "b4b1fb42-24db-4896-bf28-3a61779d2186",
+                            "nickname": "leonardobecker7937",
+                            "profilePicture": "https://media.pelando.com.br/9fINA-YyKdFVyNV0h4VcyBRDmPk=/0x30/filters:format(webp)/u/7bd1d654-8292-4a21-965b-610c4ce4b8f2.jpeg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "c621cb3e-2a3c-4d94-95fb-3cfe193a6d3b",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T15:35:32.959Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "d74ee294-7eb9-4fc4-8a73-b27953b6a9b8",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardobecker7937\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardobecker7937</a> meu deus, velho, para de ser chato.  se voce so tem dinheiro pra montar um desktop com processador de servidor comprado no ali express t\u00e1 tudo bem, cada um tem suas necessidades e condi\u00e7\u00f5es. Ninguem tem que se justificar pra voce. </p>",
+                        "user": {
+                            "id": "920847",
+                            "nickname": "afpjoao",
+                            "profilePicture": null,
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 1,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "3cabe9b1-9028-478f-8418-bfcaa5a1ce3a",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T18:40:01.196Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "5e7e5886-8dec-41c7-8824-04f665865eb7",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/afpjoao\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@afpjoao</a> achei que eu precisava saber de tudo e que ningu\u00e9m poderia comprar nada sem o meu aval. Parece que me enganei. Mais um que n\u00e3o entendeu a pergunta </p>",
+                        "user": {
+                            "id": "b4b1fb42-24db-4896-bf28-3a61779d2186",
+                            "nickname": "leonardobecker7937",
+                            "profilePicture": "https://media.pelando.com.br/9fINA-YyKdFVyNV0h4VcyBRDmPk=/0x30/filters:format(webp)/u/7bd1d654-8292-4a21-965b-610c4ce4b8f2.jpeg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "d74ee294-7eb9-4fc4-8a73-b27953b6a9b8",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T20:08:22.906Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "0c73e483-5dc8-4242-a612-985112986834",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardobecker7937\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardobecker7937</a> todos os dias eu trabalho viajando</p>",
+                        "user": {
+                            "id": "ea9b3676-4b2e-42c3-a85e-f390a08ef78b",
+                            "nickname": "andreivicente",
+                            "profilePicture": "https://media.pelando.com.br/dUjjUtDusb-PkhL_WoV2d8fpHHI=/0x30/filters:format(webp)/u/33cd2a42-7462-41b3-a68e-165d4c42d521.jpeg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "19178adc-e0e9-4fbe-a51d-9a78e404626e",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T21:52:40.213Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "b065be51-7ad6-455d-ae3e-30ada026bf18",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/leonardobecker7937\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@leonardobecker7937</a> na moral, que pessoa chata que voc\u00ea \u00e9! ta falando como se as pessoas que compram o notebook ou desktop n\u00e3o sabem de nada, n\u00e3o pesquisam a diferen\u00e7a, como se s\u00f3 voc\u00ea soubesse disso! mano, ta chato j\u00e1 </p>",
+                        "user": {
+                            "id": "cbeb549b-c2cd-4e3a-b057-48284ad7ed78",
+                            "nickname": "marcelo_felipe_da_luz_925d",
+                            "profilePicture": null,
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "5e7e5886-8dec-41c7-8824-04f665865eb7",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-06T10:59:46.853Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "c3c4f6f0-493e-41ee-96b6-c0fc9055e54f",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/marcelo_felipe_da_luz_925d\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@marcelo_felipe_da_luz_925d</a> Vdd, cada aparelho tem seu prop\u00f3sito,pra cada uso, mas o povo acha que vai rodar todos os jogos no m\u00e1ximo, \u00e9 tipo quem compra caixinha bluetooth de 20 watts e quer dar um baile \ud83d\ude44</p>",
+                        "user": {
+                            "id": "555607",
+                            "nickname": "lee_batista",
+                            "profilePicture": "https://media.pelando.com.br/uYmS6URgtItk7DnmflsWj9d3eaM=/0x30/filters:format(webp)/u/555607_1.jpg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "b065be51-7ad6-455d-ae3e-30ada026bf18",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-06T11:12:50.349Z",
+                        "deletedAt": null
+                    }
+                ],
+                "sensitive": false,
+                "createdAt": "2026-08-04T19:17:20.551Z",
+                "deletedAt": null
+            },
+            {
+                "id": "592a9608-5ae7-4a05-bbeb-6ae2a8aa87a7",
+                "content": "<p>o cupom est\u00e1 inv\u00e1lido, o valor \u00e9 maior que o que est\u00e1 aqui.</p>",
+                "user": {
+                    "id": "f1351782-cbdb-4abe-ae55-06acfc204d79",
+                    "nickname": "blackboojr",
+                    "profilePicture": "https://media.pelando.com.br/vcNWdufVwqu_-CG_4iDbkCvrTzc=/0x30/filters:format(webp)/u/9dac26ce-638e-4795-8edb-94885ff41068.jpeg",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "isAdmin": false,
+                    "specialty": null
+                },
+                "userReaction": null,
+                "reactions": {
+                    "likeCount": 0,
+                    "hahaCount": 0,
+                    "usefulCount": 0
+                },
+                "replyToId": null,
+                "status": "active",
+                "replies": [
+                    {
+                        "id": "477e5e7a-ea4e-4a14-bf99-85f8f1d63c8a",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/blackboojr\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@blackboojr</a> j\u00e1 se foi o disco voador.</p>",
+                        "user": {
+                            "id": "aa0cfb18-e1e8-4fc3-b0cb-53009619d2c9",
+                            "nickname": "wilie",
+                            "profilePicture": null,
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "592a9608-5ae7-4a05-bbeb-6ae2a8aa87a7",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-06T00:53:21.976Z",
+                        "deletedAt": null
+                    }
+                ],
+                "sensitive": false,
+                "createdAt": "2026-08-06T00:14:19.355Z",
+                "deletedAt": null
+            },
+            {
+                "id": "a28fd582-8c9a-4ace-a330-6c2f1f830bdf",
+                "content": "<p>RTX Saboorr 4050</p>",
+                "user": {
+                    "id": "204749",
+                    "nickname": "fael",
+                    "profilePicture": "https://media.pelando.com.br/narQOH46Lk5d8GQ3s_egq2724n4=/0x30/filters:format(webp)/u/204749_3.png",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "isAdmin": false,
+                    "specialty": null
+                },
+                "userReaction": null,
+                "reactions": {
+                    "likeCount": 3,
+                    "hahaCount": 8,
+                    "usefulCount": 0
+                },
+                "replyToId": null,
+                "status": "active",
+                "replies": [
+                    {
+                        "id": "01ad47b5-3390-4e7e-9429-c2bc2b470174",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/fael\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@fael</a> porq sabor? </p>",
+                        "user": {
+                            "id": "cbeb549b-c2cd-4e3a-b057-48284ad7ed78",
+                            "nickname": "marcelo_felipe_da_luz_925d",
+                            "profilePicture": null,
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 1,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "a28fd582-8c9a-4ace-a330-6c2f1f830bdf",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-04T19:03:42.011Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "9b27d974-5256-4465-bf69-5d5597745c55",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/marcelo_felipe_da_luz_925d\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@marcelo_felipe_da_luz_925d</a> devido a limita\u00e7\u00e3o do espa\u00e7o f\u00edsico e refrigera\u00e7\u00e3o, usa-se o chip vers\u00e3o M<br />que normalmente \u00e9 40% pior que a original</p>",
+                        "user": {
+                            "id": "cbb202c4-ef5b-4303-aa1b-2b4a40128595",
+                            "nickname": "brunodlorenzo",
+                            "profilePicture": "https://media.pelando.com.br/rCn9_cxjlUSug5GS88oycOzGsIA=/0x30/filters:format(webp)/u/imagecropper1778949109313-1778949131142.jpg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 1,
+                            "hahaCount": 0,
+                            "usefulCount": 1
+                        },
+                        "replyToId": "01ad47b5-3390-4e7e-9429-c2bc2b470174",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T10:43:56.450Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "ce4edd3f-37ff-4ee8-b7ca-7cb439e3f120",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/brunodlorenzo\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@brunodlorenzo</a> No caso da 4050, s\u00f3 existe o chip vers\u00e3o ``M``. Nunca foi lan\u00e7ado modelo de desktop, ent\u00e3o n\u00e3o faz sentido ser sabor qualquer coisa</p>",
+                        "user": {
+                            "id": "6832c03d-79bb-4010-88b0-9519b2dd01c7",
+                            "nickname": "kous3i",
+                            "profilePicture": "https://media.pelando.com.br/fyhH_b_wQFfJnGaDR11sWM_X-E0=/0x30/filters:format(webp)/u/d0cc3cc9-484e-4d32-a7d3-1d140bf3ce43.png",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": {
+                                "key": "genio-tech",
+                                "name": "G\u00eanio tech",
+                                "description": "Fera dos eletr\u00f4nicos e de tecnologia",
+                                "icon": "https://media.pelando.com.br/s727D7ZVPSZXA-SbRZkpftAJw7U=/filters:format(webp)/spe/genio_tech.png"
+                            }
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 1
+                        },
+                        "replyToId": "9b27d974-5256-4465-bf69-5d5597745c55",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T17:52:37.919Z",
+                        "deletedAt": null
+                    },
+                    {
+                        "id": "fb19671d-b141-44a9-a440-7d4dd2e11efd",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/fael\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@fael</a> da pra perceber que n\u00e3o manja nada, a rtx 4050 e exclusiva de notebooks, n\u00e3o existe modelo desse n\u00famero melhor ou pior </p>",
+                        "user": {
+                            "id": "ea9b3676-4b2e-42c3-a85e-f390a08ef78b",
+                            "nickname": "andreivicente",
+                            "profilePicture": "https://media.pelando.com.br/dUjjUtDusb-PkhL_WoV2d8fpHHI=/0x30/filters:format(webp)/u/33cd2a42-7462-41b3-a68e-165d4c42d521.jpeg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 1
+                        },
+                        "replyToId": "a28fd582-8c9a-4ace-a330-6c2f1f830bdf",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T21:51:55.804Z",
+                        "deletedAt": null
+                    }
+                ],
+                "sensitive": false,
+                "createdAt": "2026-08-04T18:52:11.784Z",
+                "deletedAt": null
+            },
+            {
+                "id": "03d092f8-0131-4764-b0dc-d67a351ae9f1",
+                "content": "<p>Nave demais esse notebook! Tenho um e \u00e9 s\u00f3 alegria! Papo ai da RAM, fiquem de boa, roda tudo aqui no liso. Ainda mais que tem essas tecnologias de DLSS e FSR.</p>",
+                "user": {
+                    "id": "622416",
+                    "nickname": "renan_monteirorxc",
+                    "profilePicture": "https://media.pelando.com.br/zh-qPrgCS2jdsMV-_9qZ_YxNMhY=/0x30/filters:format(webp)/u/622416_1.jpg",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "isAdmin": false,
+                    "specialty": null
+                },
+                "userReaction": null,
+                "reactions": {
+                    "likeCount": 0,
+                    "hahaCount": 2,
+                    "usefulCount": 0
+                },
+                "replyToId": null,
+                "status": "active",
+                "replies": [
+                    {
+                        "id": "12b654ca-eee7-4f3e-a52e-b012104b98ca",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/renan_monteirorxc\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@renan_monteirorxc</a> Mas o gargalo vai ser sempre a mem\u00f3ria, agora jogos da s\u00e9tima gera\u00e7\u00e3o \u00e9 de boas mesmo. Emuladores etc.</p>",
+                        "user": {
+                            "id": "555607",
+                            "nickname": "lee_batista",
+                            "profilePicture": "https://media.pelando.com.br/uYmS6URgtItk7DnmflsWj9d3eaM=/0x30/filters:format(webp)/u/555607_1.jpg",
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": null
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 0
+                        },
+                        "replyToId": "03d092f8-0131-4764-b0dc-d67a351ae9f1",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T14:48:47.220Z",
+                        "deletedAt": null
+                    }
+                ],
+                "sensitive": false,
+                "createdAt": "2026-08-05T01:00:39.847Z",
+                "deletedAt": null
+            },
+            {
+                "id": "ae86aa3c-9d18-483c-be7d-3fe1abb68d11",
+                "content": "<p>galera falando que o notebook \u00e9 limitado. p\u2026 gamer por 5,5k e ainda querem exigir </p>",
+                "user": {
+                    "id": "112784",
+                    "nickname": "jesus.in.guacia.ligno",
+                    "profilePicture": "https://media.pelando.com.br/QMo0ncUpzeGmvIfRbBsn7X67Vm8=/0x30/filters:format(webp)/u/112784_2.jpg",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "isAdmin": false,
+                    "specialty": null
+                },
+                "userReaction": null,
+                "reactions": {
+                    "likeCount": 2,
+                    "hahaCount": 0,
+                    "usefulCount": 0
+                },
+                "replyToId": null,
+                "status": "active",
+                "replies": [],
+                "sensitive": false,
+                "createdAt": "2026-08-05T14:27:44.198Z",
+                "deletedAt": null
+            },
+            {
+                "id": "e1b87fed-ad78-4ade-be66-a22a218eb06a",
+                "content": "<p>Pessoal, esse ou o TUF F16? A diferen\u00e7a \u00e9 s\u00f3 o processador?</p>",
+                "user": {
+                    "id": "890375",
+                    "nickname": "gtsdfsf",
+                    "profilePicture": "https://media.pelando.com.br/X2WrY5AsFFgke4UHqGihqfChezM=/0x30/filters:format(webp)/u/890375_1.png",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "isAdmin": false,
+                    "specialty": null
+                },
+                "userReaction": null,
+                "reactions": {
+                    "likeCount": 0,
+                    "hahaCount": 0,
+                    "usefulCount": 0
+                },
+                "replyToId": null,
+                "status": "active",
+                "replies": [],
+                "sensitive": false,
+                "createdAt": "2026-08-05T13:13:11.896Z",
+                "deletedAt": null
+            },
+            {
+                "id": "84c9faec-6bed-4402-b7e2-fcf63ffc7a37",
+                "content": "<p>pelo que pesquisei acabei de comprar ele... placa de video nao \u00e9 capada, mais f\u00e1cil depois colocar 8 gb de ram do que correr risco de esperar e os notes aumentarem o pre\u00e7o...</p>",
+                "user": {
+                    "id": "aa0cfb18-e1e8-4fc3-b0cb-53009619d2c9",
+                    "nickname": "wilie",
+                    "profilePicture": null,
+                    "topCreator": false,
+                    "isCreator": false,
+                    "isAdmin": false,
+                    "specialty": null
+                },
+                "userReaction": null,
+                "reactions": {
+                    "likeCount": 0,
+                    "hahaCount": 0,
+                    "usefulCount": 1
+                },
+                "replyToId": null,
+                "status": "active",
+                "replies": [],
+                "sensitive": false,
+                "createdAt": "2026-08-05T04:02:29.163Z",
+                "deletedAt": null
+            },
+            {
+                "id": "0577315a-be9f-47f8-a4ed-fe071f32d049",
+                "content": "<p>Pergunta sincera: ainda saem notebooks com mem\u00f3ria DDR4 (que tenham placa de v\u00eddeo) ?</p><p>Pergunto porque as mem\u00f3rias DDR5 est\u00e3o com pre\u00e7os impratic\u00e1veis, ent\u00e3o pensei que compensaria mais um note DDR4, que eu pudesse colocar 32GB de ram, do que comprar um DDR5 que vem com 8GB e gastar uma fortuna em ram DDR5.</p>",
+                "user": {
+                    "id": "76de479d-9099-4f96-a8b0-c39f193c6e3f",
+                    "nickname": "arcanum777",
+                    "profilePicture": "https://media.pelando.com.br/4F1eArHO8zoQKWeG-eMRsWPxQP0=/0x30/filters:format(webp)/u/fire-magic-1-1768678476002.png",
+                    "topCreator": false,
+                    "isCreator": false,
+                    "isAdmin": false,
+                    "specialty": null
+                },
+                "userReaction": null,
+                "reactions": {
+                    "likeCount": 2,
+                    "hahaCount": 0,
+                    "usefulCount": 0
+                },
+                "replyToId": null,
+                "status": "active",
+                "replies": [
+                    {
+                        "id": "fd553d08-d97a-4137-a897-e610eedc9ba2",
+                        "content": "<p><a href=\"https://www.pelando.com.br/perfil/arcanum777\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">@arcanum777</a> sim, Asus TUF F16 tem ddr4</p>",
+                        "user": {
+                            "id": "920635",
+                            "nickname": "kater_",
+                            "profilePicture": null,
+                            "topCreator": false,
+                            "isCreator": false,
+                            "isAdmin": false,
+                            "specialty": {
+                                "key": "genio-tech",
+                                "name": "G\u00eanio tech",
+                                "description": "Fera dos eletr\u00f4nicos e de tecnologia",
+                                "icon": "https://media.pelando.com.br/s727D7ZVPSZXA-SbRZkpftAJw7U=/filters:format(webp)/spe/genio_tech.png"
+                            }
+                        },
+                        "userReaction": null,
+                        "reactions": {
+                            "likeCount": 0,
+                            "hahaCount": 0,
+                            "usefulCount": 2
+                        },
+                        "replyToId": "0577315a-be9f-47f8-a4ed-fe071f32d049",
+                        "status": "active",
+                        "replies": [],
+                        "sensitive": false,
+                        "createdAt": "2026-08-05T02:12:45.204Z",
+                        "deletedAt": null
+                    }
+                ],
+                "sensitive": false,
+                "createdAt": "2026-08-04T21:06:15.813Z",
+                "deletedAt": null
+            }
+        ]
+    },
+    "timestamp": "2026-08-10T00:04:25.200Z"
+}

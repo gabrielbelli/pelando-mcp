@@ -1,0 +1,17 @@
+services:
+  pelando-mcp:
+    build: .
+    image: pelando-mcp:latest
+    stdin_open: true
+    tty: false
+    volumes:
+      - pelando-mcp-data:/data
+    environment:
+      PELANDO_USER_AGENT: ${PELANDO_USER_AGENT:-pelando-mcp/0.1 (+https://github.com/gabrielbelli/pelando-mcp)}
+      PELANDO_RATE_LIMIT_RPS: ${PELANDO_RATE_LIMIT_RPS:-1.0}
+      PELANDO_RATE_LIMIT_BURST: ${PELANDO_RATE_LIMIT_BURST:-3}
+      PELANDO_CACHE_PATH: /data/cache.sqlite
+      PELANDO_LOG_LEVEL: ${PELANDO_LOG_LEVEL:-INFO}
+
+volumes:
+  pelando-mcp-data:

@@ -1,0 +1,51 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pelando-mcp"
+version = "0.0.1"
+description = "MCP server for pelando.com.br — Brazilian community deals, with the crowd's verdict attached"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "BSD-2-Clause" }
+authors = [{ name = "Gabriel Belli" }]
+keywords = ["mcp", "pelando", "brasil", "promocoes", "deals"]
+dependencies = [
+    # 2.0 renamed FastMCP to MCPServer and moved it to mcp.server.mcpserver.
+    "mcp>=2.0.0",
+    "httpx>=0.27",
+    "selectolax>=0.3.21",
+    "pydantic>=2.7",
+    "structlog>=24.1",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.23",
+    "respx>=0.21",
+    "ruff>=0.5",
+]
+
+[project.scripts]
+pelando-mcp = "pelando_mcp.server:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+markers = [
+    "live: hits the real site; deselected by default with -m 'not live'",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+# Selected explicitly rather than inherited: ruff's default rule set changes between releases, and
+# CI should not start failing because a new version was published.
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I", "UP"]
